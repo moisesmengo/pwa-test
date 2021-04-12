@@ -1,0 +1,173 @@
+.folder {
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 26px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-align: center;
+  color: #d30000;
+}
+.folder:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #d30000;
+  margin: 8px auto;
+}
+@media (max-width: 991px) {
+  nav > ul {
+    position: absolute;
+    top: 70px;
+    left: -100%;
+    width: 100%;
+    transition: 0.8s linear;
+  }
+  nav ul li {
+    display: block;
+  }
+  label {
+    display: flex;
+    margin-right: 10px;
+  }
+  .drop-icon {
+    transform: rotate(0deg);
+  }
+  nav ul li ul {
+    width: max-content;
+    z-index: 1;
+  }
+  .active ul li a {
+    color: red;
+  }
+  input:checked ~ #menu {
+    left: 0;
+  }
+}
+.servicos {
+  background: #f5f5f5;
+  padding: 10px;
+}
+.servicos_lista li {
+  height: 300px;
+  padding-bottom: 0;
+  margin-bottom: 40px;
+  text-align: center;
+  background: #fdfdfd;
+}
+.titulo {
+  font-size: 12px;
+  line-height: 10px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.titulo2 {
+  padding-bottom: 60px;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.duvida2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #000;
+}
+.duvida2 p {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+.duvida2 a {
+  display: block;
+  margin-right: auto;
+  width: 60px;
+  height: 60px;
+  background-size: 100% 100%;
+  background-image: url(../img/whatsapp3.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.duvida3 {
+  background: #000;
+}
+.duvida4 {
+  background: #000;
+}
+.subtitulo {
+  padding: 30px;
+  font-size: 18px;
+}
+.servicos_lista2 {
+  height: 600px;
+}
+.servicos_lista2 li {
+  margin: 0 auto;
+  padding: 10px 0;
+  width: 100%;
+  align-content: center;
+  text-align: center;
+  background: #fdfdfd;
+}
+.servicos_lista2 li a {
+  font-weight: 700;
+  font-size: 16px;
+  color: #000;
+  line-height: 25px;
+  text-transform: none;
+  letter-spacing: 0.1em;
+  margin-top: 10px;
+}
+.servicos_lista2 li a:hover {
+  color: #d30000;
+}
+.js [data-slide] {
+  position: relative;
+}
+.js [data-slide] > * {
+  position: absolute;
+  top: 0;
+  opacity: 0;
+}
+.js [data-slide] > .active {
+  position: relative;
+  opacity: 1;
+  transition: opacity 500ms;
+}
+.js [data-slide-nav] {
+  display: inline-block;
+  width: 12px;
+  margin: 4px;
+  height: 12px;
+  border: none;
+  padding: 0;
+  border-radius: 6px;
+  background: #fff;
+  text-indent: -100px;
+  overflow: hidden;
+}
+.js [data-anime] {
+  opacity: 0;
+  transform: translate3d(0, -20px, 0);
+}
+.js .fadeInDown {
+  transform: translate3d(0, -20px, 0);
+}
+.js .anime {
+  opacity: 1;
+  transform: none;
+  transition: transform 0.8s, opacity 0.8s;
+}

@@ -1,0 +1,29 @@
+.pol-texto {
+  background: #e2e2e2;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+h2.pol-tit {
+  padding: 10px;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+h3.pol-tit {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+p.pol-p {
+  padding: 5px 10px;
+  font-size: 16px;
+  line-height: 20px;
+}
+.pol-p a {
+  color: #b41616;
+  text-decoration: underline;
+}
+ul.pol-lista {
+  padding: 5px 10px;
+}

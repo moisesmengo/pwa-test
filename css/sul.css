@@ -1,0 +1,112 @@
+.folder_regioes {
+  background: url(../img/folder-regioes.jpg) no-repeat center;
+  background-size: cover;
+  margin-top: 0;
+  height: 350px;
+}
+.introducao_folder21 {
+  text-align: center;
+  color: #000;
+}
+.introducao_folder21 h1 {
+  font-size: 45px;
+  padding-top: 50px;
+}
+.introducao_folder21 h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: red;
+  margin: 5px auto;
+}
+.folder_principal21 {
+  position: relative;
+  top: -210px;
+  z-index: 99;
+  height: 360px;
+  padding-left: 60px;
+}
+.folder_principal21 h2 {
+  padding-top: 40px;
+  font-size: 1.2rem;
+  color: red;
+  text-transform: uppercase;
+  text-align: center;
+}
+.lista-zonas {
+  padding-top: 30px;
+  line-height: 20px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+.lista-zonas a {
+  color: #000;
+}
+.folder_principal21 img {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.duvida2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #000;
+}
+.duvida2 p {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+.duvida2 a {
+  display: block;
+  margin-right: auto;
+  width: 50px;
+  height: 40px;
+  background-size: 100% 100%;
+  background-image: url(../img/whatsapp3.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.links-regioes {
+  height: 300px;
+  padding-top: 30px;
+  background: #f5f5f5;
+}
+.lista-regioes {
+  text-align: center;
+  border-radius: 3px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.lista-regioes li a {
+  line-height: 30px;
+  color: #000;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.lista-regioes li a:hover {
+  color: red;
+}
+.ligar p {
+  font-size: 4vw;
+  text-align: center;
+  text-shadow: 0 0 1vw red, 0 0 2vw red, 0 0 3vw red;
+  padding: 30px;
+  animation: animate 10s linear infinite;
+}
+@keyframes animate {
+  from {
+    filter: hue-rotate(0deg);
+  }
+  to {
+    filter: hue-rotate(360deg);
+  }
+}

@@ -1,0 +1,319 @@
+.folder_dedetizadora {
+  background: url(../img/folder_dede.jpg) no-repeat center;
+  background-size: cover;
+  margin-top: 0;
+}
+.active ul li a {
+  color: red;
+}
+.introducao_folder2 h1 {
+  font-size: 24px;
+}
+.introducao_folder2 p {
+  font-size: 18px;
+}
+.tipo2 {
+  padding: 60px 0;
+  height: 430px;
+}
+.tipo2_lista li {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+.tipo2_lista li p {
+  color: #000;
+  padding-top: 10px;
+  text-align: center;
+}
+.tipo2_lista .destaque {
+  padding-top: 60px;
+}
+.tipo2_titulo h2 {
+  padding: 20px;
+  height: 50px;
+  text-align: center;
+  font-size: 16px;
+  background: #000;
+  color: #fff;
+  line-height: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  border: 1px solid #d30000;
+  border-radius: 0.5em;
+}
+.tipo2_2 {
+  padding: 20px;
+  font-size: 16px;
+  border: 2px solid #d30000;
+  border-radius: 0.5em;
+  background: #f5f5f5;
+}
+.call {
+  list-style: none;
+  padding-top: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  clear: both;
+}
+.call a {
+  background: #d30000;
+  color: #fff;
+  border: 2px solid rgba(0, 0, 0, 0.664);
+  padding: 10px 30px;
+  border-radius: 0.5em;
+  box-shadow: 1px 1px 0 1px #720000;
+}
+.call a:hover {
+  box-shadow: 0 0 0 0 #720000 inset 1px 1px 1px #720000;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  color: #000;
+  border-color: #000;
+}
+.duvida1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #000;
+}
+.duvida1 p {
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+.duvida1 a {
+  display: block;
+  margin-right: auto;
+  width: 50px;
+  height: 50px;
+  background-size: 100% 100%;
+  background-image: url(../img/whatsapp3.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.qualidade_dede {
+  padding: 60px 0;
+}
+.subtitulo_dede {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.subtitulo_dede:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+.qualidade_dede:after {
+  content: "";
+  width: 634px;
+  height: 83px;
+  display: block;
+  background: url(../img/linhas.svg) no-repeat center;
+  position: absolute;
+  top: 150px;
+  right: 167px;
+  z-index: -1;
+}
+.qualidade_dede img {
+  margin: 0 auto;
+}
+.duvida2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #000;
+}
+.duvida2 p {
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #fff;
+  padding: 20px;
+  margin: 10px;
+}
+.duvida2 a {
+  display: block;
+  margin-right: auto;
+  width: 50px;
+  height: 40px;
+  background-size: 100% 100%;
+  background-image: url(../img/whatsapp3.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.tipos_dede {
+  padding: 10px 0;
+}
+.tipos_dede h3 {
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #d30000;
+  font-family: georgia;
+  letter-spacing: 1px;
+}
+.tipos_dede h2 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #a21e2a;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.col-wide {
+  grid-column: 1 / -1;
+}
+.content-dede {
+  grid-area: content;
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+@media (max-width: 600px) {
+  .content-dede {
+    grid-template-columns: auto;
+  }
+}
+.col-wide {
+  grid-column: 1 / -1;
+}
+.imagens_dede {
+  grid-row: span 2;
+  align-self: end;
+}
+.texto {
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: -0.005em;
+  color: rgba(0, 0, 0, 0.7);
+}
+.informacoes p + p {
+  margin-top: 50px;
+}
+.tipos_dede h2 {
+  padding-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #790000;
+}
+.perguntas {
+  height: auto;
+}
+.locais-loc {
+  height: 1360px;
+  padding: 60px 0;
+}
+.p {
+  padding-bottom: 40px;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+.sub6 {
+  padding-right: -0;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+.sub6:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+.local_item {
+  padding: 20px 0;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.local_item h2 {
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #940000;
+}
+.local_item li {
+  padding: 2px;
+  letter-spacing: 1px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 30px;
+  font-size: 18px;
+  font-style: italic;
+}
+.local_item a {
+  font-size: 14px;
+  color: #000;
+}
+.local_item a:hover {
+  color: #d30000;
+}
+.local_lista {
+  font-size: 14px;
+}
+.js [data-slide] {
+  position: relative;
+}
+.js [data-slide] > * {
+  position: absolute;
+  top: 0;
+  opacity: 0;
+}
+.js [data-slide] > .active {
+  position: relative;
+  opacity: 1;
+  transition: opacity 500ms;
+}
+.js [data-slide-nav] {
+  display: inline-block;
+  width: 12px;
+  margin: 4px;
+  height: 12px;
+  border: none;
+  padding: 0;
+  border-radius: 6px;
+  background: #fff;
+  text-indent: -100px;
+  overflow: hidden;
+}
+.js [data-anime] {
+  opacity: 0;
+  transform: translate3d(0, -20px, 0);
+}
+.js .fadeInDown {
+  transform: translate3d(0, -20px, 0);
+}
+.js .anime {
+  opacity: 1;
+  transform: none;
+  transition: transform 0.8s, opacity 0.8s;
+}

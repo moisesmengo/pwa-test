@@ -1,0 +1,3452 @@
+@media (max-width: 2560px) {
+  .duvida11 {
+    padding-left: 1040px;
+  }
+  .duvida-dede {
+    padding-left: 974px;
+  }
+  .duvida-controle {
+    padding-left: 978px;
+  }
+  .duvida-caca {
+    padding-left: 986px;
+  }
+  .blog {
+    padding-right: 0px;
+    padding-left: 832px;
+  }
+  #cookies {
+    top: auto;
+  }
+}
+@media (max-width: 1440px) {
+  .duvida11 {
+    padding-left: 500px;
+  }
+  .duvida-dede {
+    padding-left: 440px;
+  }
+  .duvida-controle {
+    padding-left: 450px;
+  }
+  .duvida-caca {
+    padding-left: 450px;
+  }
+  .blog {
+    padding-left: 300px;
+    padding-right: 0px;
+  }
+  #cookies {
+    top: auto;
+  }
+  .introducao-pag {
+    height: 900px;
+  }
+  .pag-erro {
+    margin-top: 100px;
+  }
+  @media (max-width: 1284px) {
+    .duvida11 {
+      padding-left: 400px;
+    }
+    .duvida-dede {
+      padding-left: 350px;
+    }
+    .duvida-controle {
+      padding-left: 350px;
+    }
+    .duvida-caca {
+      padding-left: 360px;
+    }
+  }
+}
+@media (max-width: 1280px) {
+  .duvida11 {
+    padding-left: 425px;
+  }
+  .blog {
+    padding-left: 230px;
+  }
+  .duvida-dede {
+    padding-left: 380px;
+  }
+  .duvida-controle {
+    padding-left: 380px;
+  }
+  .duvida-caca {
+    padding-left: 360px;
+  }
+  #cookies {
+    top: auto;
+  }
+  .introducao-pag {
+    height: 950px;
+    padding-top: 150px;
+  }
+  .pag-erro {
+    height: 700px;
+    margin-top: 30px;
+  }
+}
+@media (max-width: 1024px) {
+  .duvida11 {
+    padding-left: 280px;
+  }
+  .duvida-dede {
+    padding-left: 260px;
+  }
+  .duvida-controle {
+    padding-left: 250px;
+  }
+  .duvida-caca {
+    padding-left: 250px;
+  }
+  .blog {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .tipo2 {
+    margin-left: 55px;
+    margin-right: 0px;
+  }
+  .duvidab h1 {
+    padding-left: 130px;
+  }
+  #cookies {
+    top: auto;
+  }
+  .introducao-pag {
+    height: 1366px;
+    padding-top: 400px;
+  }
+  .pag-erro {
+    margin-top: 280px;
+  }
+  p.p-erro {
+    font-size: 28px;
+    line-height: 38px;
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+@media (max-width: 991px) {
+  .gotopbtn {
+    right: 10px;
+    bottom: 10px;
+    z-index: 10000;
+  }
+  .folder_principal {
+    z-index: 80;
+  }
+  .introducao {
+    padding-top: 70px;
+    height: 500px;
+  }
+  .introducao h1 {
+    font-size: 40px;
+  }
+  .promo p {
+    font-size: 36px;
+  }
+  .lista_intro {
+    font-size: 22px;
+  }
+  .introducao h4 {
+    font-size: 20px;
+  }
+  .duvida11 {
+    padding-left: 254px;
+  }
+  .duvida-dede {
+    padding-left: 216px;
+  }
+  .duvida-controle {
+    padding-left: 196px;
+  }
+  .duvida-caca {
+    padding-left: 210px;
+  }
+  .qualidade_home {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .item {
+    margin-right: 10px;
+    width: 140px;
+  }
+  .blog1 {
+    margin-right: 10px;
+    width: 140px;
+  }
+  .blog2 {
+    margin-right: 10px;
+    width: 140px;
+  }
+  .blog3 {
+    width: 140px;
+  }
+  .mapa {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+  }
+  .tipo2 {
+    margin-left: 10px;
+  }
+  .introducao_folder2 h1 {
+    font-size: 1.875rem;
+  }
+  .qualidade_dede {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .mapa_item {
+    font-size: 0.7rem;
+  }
+  .locais-zonas {
+    font-size: 0.7rem;
+  }
+  .folder_principal1 {
+    width: 90%;
+  }
+  .introducao_folder21 h1 {
+    padding-top: 50px;
+    font-size: 40px;
+  }
+  .folder_principal {
+    top: -210px;
+    left: 3%;
+  }
+  .links-regioes {
+    padding-top: 5px;
+  }
+  .duvida h2 {
+    font-size: 2.375rem;
+    padding: 10px 20px 10px 20px;
+  }
+  .descricao-ralo {
+    height: 600px;
+  }
+  .descricao-ralo p {
+    padding-bottom: 15px;
+    font-size: 16px;
+  }
+  .descricao-ralo1 {
+    height: 400px;
+  }
+  .descricao-ralo1 p {
+    font-size: 16px;
+  }
+  .descricao-ralo2 {
+    height: 680px;
+  }
+  .descricao-ralo2 p {
+    font-size: 16px;
+  }
+  .descricao-ralo3 {
+    height: 280px;
+  }
+  .descricao-ralo3 p {
+    font-size: 16px;
+  }
+  .descricao-ralo5 {
+    height: 450px;
+  }
+  .descricao-ralo5 p {
+    font-size: 16px;
+  }
+  .duvida h1 {
+    font-size: 2.375rem;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+  }
+  .descricao-ralo20 {
+    height: 80px;
+  }
+  .bairros-zl20 {
+    margin-top: 0px;
+  }
+  .introducao-pag {
+    height: 800px;
+    padding-top: 100px;
+  }
+  .pag-erro {
+    margin-top: 20px;
+  }
+  p.p-erro {
+    font-size: 15px;
+  }
+}
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+  .introducao {
+    height: 500px;
+    text-align: left;
+    padding-left: 20px;
+  }
+  .introducao h1 {
+    font-size: 2rem;
+    font-family: georgia;
+    font-weight: bold;
+  }
+  .introducao h4 {
+    font-size: 24px;
+    color: rgb(36, 36, 36);
+  }
+  .promo p {
+    font-size: 1.8rem;
+  }
+  .lista_intro ul {
+    font-size: 1rem;
+    line-height: 25px;
+    font-style: italic;
+    font-family: helvetica;
+  }
+  .contato a {
+    height: 90px;
+    width: 100px;
+  }
+  .comentario {
+    height: 500px;
+  }
+  .duvida11 {
+    padding-left: 244px;
+  }
+  .duvida11 p {
+    font-size: 18px;
+  }
+  .duvida11 a {
+    height: 60px;
+  }
+  .call p {
+    font-size: 18px;
+  }
+  .servicos_dese {
+    height: 550px;
+  }
+  .subtitulo4 {
+    font-size: 24px;
+  }
+  .servicos_lista li a {
+    font-size: 1rem;
+  }
+  .servicos_lista li p {
+    font-size: 0.75rem;
+  }
+  .duvida-dede {
+    padding-left: 206px;
+  }
+  .qualidade_home {
+    height: 660px;
+    margin: auto 0px 80px 80px;
+    padding-bottom: 0px;
+  }
+  .subtitulo_cli {
+    margin-bottom: 50px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .qualidade_home:after {
+    display: none;
+  }
+  .call p {
+    padding: 20px;
+  }
+  .clientes-item {
+    display: none;
+  }
+  .quebra {
+    margin-top: 80px;
+    padding-top: 70px;
+  }
+  .quebra p {
+    font-size: 1.25rem;
+  }
+  .controle {
+    height: 620px;
+    margin: 0 auto;
+    align-items: center;
+  }
+  .controle p {
+    font-size: 16px;
+  }
+  .controle_lista a {
+    font-size: 13px;
+  }
+  .controle_lista p {
+    font-size: 0.8125rem;
+  }
+  .tipo_item {
+    padding-top: 50px;
+    height: 550px;
+  }
+  .tipo_item h2 {
+    font-size: 16px;
+    top: -150px;
+    margin-bottom: -40px;
+  }
+  .tipo_icone {
+    padding: 41px 0;
+  }
+  .tipo_info p {
+    font-size: 14px;
+    line-height: 20px;
+    height: 122px;
+    padding: 20px 30px;
+  }
+  .tipo_info ul li {
+    font-size: 14px;
+    width: 181px;
+    height: 49px;
+  }
+  .locais {
+    height: 1330px;
+    width: 730px;
+    padding-left: 10px;
+  }
+  .sub6 {
+    text-align: left;
+    padding-left: 10px;
+    font-size: 34px;
+  }
+  .sub6:after {
+    display: none;
+  }
+  .p {
+    text-align: left;
+    padding-left: 10px;
+  }
+  .local_item h2 {
+    font-size: 16px;
+  }
+  .call-l {
+    padding-left: 10px;
+    align-items: center;
+    text-align: left;
+  }
+  .call-l p {
+    padding-left: 10px;
+    text-align: left;
+  }
+  .blog {
+    padding-top: 50px;
+    padding-left: 80px;
+    padding-right: 0px;
+    height: 230px;
+  }
+  .container-blog {
+    margin-right: 0px;
+    width: 680px;
+  }
+  .blog1 {
+    padding: 10px 10px;
+  }
+  .blog1 p {
+    font-size: 16px;
+  }
+  .blog2 p {
+    font-size: 16px;
+  }
+  .blog3 p {
+    font-size: 16px;
+  }
+  .blog2 {
+    padding: 10px 10px;
+  }
+  .blog3 {
+    padding: 10px 10px;
+  }
+  .perguntas {
+    padding-bottom: 60px;
+    padding-left: 0px;
+  }
+  .accordion {
+    font-size: 20px;
+  }
+  .panel p {
+    font-size: 18px;
+  }
+  .mapa {
+    padding: 50px 0;
+  }
+  .mapa_item {
+    padding: 20px 20px;
+    font-size: 10px;
+  }
+  .mapa_item ul li {
+    font-size: 0.45rem;
+  }
+  .folder {
+    padding-top: 30px;
+    font-size: 28px;
+  }
+  .servicos {
+    padding: 10px 0;
+  }
+  .titulo2 {
+    font-size: 1.5rem;
+  }
+  .duvida2 {
+    padding-left: 30px;
+  }
+  .duvida2 p {
+    font-size: 18px;
+  }
+  .duvida2 a {
+    height: 50px;
+  }
+  .duvida3 {
+    padding-left: 100px;
+  }
+  .duvida4 {
+    padding-left: 280px;
+  }
+  .tipo2 {
+    height: 450px;
+    margin-left: 105px;
+    margin-right: 105px;
+  }
+  .tipo2_titulo h2 {
+    font-size: 13px;
+  }
+  .tipos_dede h2 {
+    font-size: 1.375rem;
+  }
+  .duvida5 {
+    padding-left: 70px;
+  }
+  .duvida5 p {
+    font-size: 18px;
+  }
+  .duvida5 a {
+    height: 50px;
+  }
+  .qualidade_dede {
+    height: 520px;
+  }
+  .subtitulo_dede {
+    font-size: 18px;
+  }
+  .qualidade_dede:after {
+    right: 70px;
+  }
+  .qualidade_lista li {
+    padding: 0 10px;
+  }
+  .content-dede {
+    padding-left: 10px;
+    margin: 0 auto;
+  }
+  .qualidade_dede {
+    margin: auto 80px 80px 80px;
+  }
+  .introducao_folder2 {
+    text-align: left;
+  }
+  .folder_atuacao h3 {
+    text-align: center;
+  }
+  .folder_atuacao p {
+    text-align: center;
+  }
+  .introducao_folder2 h1 {
+    font-size: 28px;
+    color: white;
+  }
+  .introducao_folder2 h1:after {
+    display: none;
+  }
+  .introducao_folder2 p {
+    font-size: 20px;
+  }
+  .caca {
+    margin: 0px;
+    height: 810px;
+  }
+  .qualidade_home {
+    height: 520px;
+  }
+  .qualidade_home:after {
+    right: 70px;
+  }
+  .qualidade_lista li {
+    padding: 0 10px;
+  }
+  .quebre1 p {
+    padding: 20px 120px;
+    max-width: 100em;
+  }
+  .folder_principal1 {
+    top: 0px;
+  }
+  .folder_atuacao {
+    padding-top: 50px;
+  }
+  .zona1 a {
+    font-size: 7px;
+  }
+  .subtitulo6 {
+    margin-top: 40px;
+  }
+  .introducao_folder21 h1 {
+    padding-top: 50px;
+  }
+  .duvida7 {
+    padding-left: 100px;
+  }
+  .bairros-zl {
+    height: 280px;
+  }
+  .links-regioes {
+    padding-top: 5px;
+  }
+  .folder_principal2 {
+    top: 0px;
+  }
+  .folder_ralo {
+    text-align: center;
+    padding-top: 70px;
+  }
+  .lista-ralo {
+    margin: 0px;
+    width: 280px;
+  }
+  .descricao-ralo {
+    height: 700px;
+  }
+  .descricao-ralo1 {
+    height: 470px;
+  }
+  .duvida h2 {
+    font-size: 32px;
+    padding-left: 0;
+    padding-top: 0;
+  }
+  .descricao-ralo2 {
+    height: 780px;
+  }
+  h2.hid {
+    padding-top: 0;
+  }
+  .descricao-ralo3 {
+    height: auto;
+  }
+  .descricao-ralo5 {
+    height: 490px;
+  }
+  .duvida {
+    text-align: center;
+    padding-top: 30px;
+  }
+  .duvida h1 {
+    font-size: 32px;
+    padding-left: 0px;
+  }
+  .bairros-zl20 {
+    height: 200px;
+  }
+  .duvidab h1 {
+    font-size: 2.625rem;
+    padding-left: 63px;
+  }
+  .duvidab-jp h1 {
+    padding-left: 0px;
+  }
+  .folder_erro {
+    height: 350px;
+  }
+  p.p-erro {
+    font-size: 14px;
+  }
+  @media only screen and (max-width: 970px) {
+    p.pol {
+      font-size: 0.75rem;
+    }
+  }
+  @media only screen and (max-width: 900px) {
+    #cookies {
+      width: 100%;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    p.pol {
+      width: 712px;
+      margin-bottom: 15px;
+    }
+  }
+}
+@media only screen and (max-width: 847px) {
+  .duvida11 {
+    padding-left: 200px;
+  }
+  .duvida-dede {
+    padding-left: 180px;
+  }
+  .duvida-controle {
+    padding-left: 140px;
+  }
+  .duvida-caca {
+    padding-left: 130px;
+  }
+  .qualidade_home {
+    margin-right: 0;
+    margin-left: 30px;
+  }
+  .tipo2 {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .qualidade_dede {
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+  .duvidab h1 {
+    padding-left: 70px;
+  }
+  p.p-erro {
+    font-size: 11px;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .servicos_dese {
+    height: 580px;
+  }
+  .servicos_lista li a {
+    font-size: 1rem;
+  }
+  .qualidade_home {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .qualidade_dede {
+    margin-left: 18px;
+    margin-right: 0px;
+  }
+  .zona1 a {
+    font-size: 7px;
+  }
+  .content-dede {
+    padding-right: 10px;
+  }
+  .tipo2 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .duvidab h1 {
+    padding-left: 70px;
+  }
+  .descricao-ralo20 {
+    height: 110px;
+  }
+  .bairros-zl20 {
+    height: 348px;
+  }
+  .folder_principal211 {
+    width: 604px;
+    padding-left: 180px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  .duvidab-jp {
+    text-align: center;
+  }
+  .duvidab-jp h1 {
+    font-size: 2.6875rem;
+  }
+  #cookies {
+    top: auto;
+  }
+  h3.tit-erro {
+    margin-top: 0;
+  }
+}
+@media only screen and (max-width: 797px) {
+  .qualidade_home {
+    margin-left: 0px;
+  }
+  .duvida11 {
+    padding-left: 160px;
+  }
+  p.p-erro {
+    font-size: 10px;
+  }
+}
+@media only screen and (max-width: 787px) {
+  .header {
+    position: relative;
+    padding-bottom: 0px;
+  }
+  #menu {
+    top: 60px;
+  }
+  #menu ul li ul {
+    height: 301px;
+  }
+  .header img {
+    margin: 0 auto 10px auto;
+  }
+  .header_menu {
+    text-align: center;
+  }
+  .header_menu ul li {
+    margin: 5px;
+  }
+  .header_menu ul li a {
+    border: 2px solid red;
+    width: 136px;
+    display: block;
+    float: left;
+  }
+  .header_menu ul li a:hover {
+    border-color: white;
+  }
+  .introducao {
+    height: 570px;
+    margin-top: 0;
+    padding-top: 58px;
+    padding-left: 20px;
+    background: url("../img/intro1.jpg") no-repeat center;
+    background-size: cover;
+    text-align: left;
+  }
+  .introducao h1 {
+    font-size: 2rem;
+    padding: 20px;
+    padding-left: 0px;
+    letter-spacing: 2px;
+    text-align: left;
+  }
+  .introducao p {
+    font-size: 30px;
+    text-align: left;
+  }
+  .introducao h4 {
+    font-size: 24px;
+    color: black;
+  }
+  .lista_intro {
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+  }
+  .folder_desentupidora {
+    background: url("../img/folder_principal.jpg") no-repeat center;
+    background-size: cover;
+  }
+  .clientes {
+    top: 0;
+    margin-left: 230px;
+    margin-right: 230px;
+  }
+  .quote_clientes p {
+    font-size: 17px;
+  }
+  .quote_clientes cite {
+    font-size: 16px;
+  }
+  .duvida11 {
+    padding-left: 170px;
+  }
+  .duvida-dede {
+    padding-left: 130px;
+  }
+  .duvida {
+    top: -30px;
+    padding-right: 210px;
+  }
+  .duvidab {
+    top: -30px;
+    padding-right: 175px;
+  }
+  .servicos_dese {
+    top: 0px;
+    padding: 30px 0px;
+    height: 1230px;
+  }
+  .servicos_dese h2 {
+    font-size: 18px;
+  }
+  .call {
+    padding-top: 10px;
+  }
+  .duvida_dede {
+    top: -30px;
+  }
+  .qualidade_home {
+    height: 850px;
+    padding-bottom: 0px;
+    margin-left: 250px;
+  }
+  .subtitulo_cli {
+    margin-bottom: 50px;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .qualidade_home:after {
+    display: none;
+  }
+  .call p {
+    padding: 20px;
+  }
+  .cli {
+    display: none;
+  }
+  .quebra {
+    padding-top: 75px;
+    background: url("../img/footer_mobile.jpg") no-repeat center;
+    background-size: cover;
+  }
+  .quebra p {
+    font-size: 16px;
+    line-height: 14px;
+    text-transform: uppercase;
+  }
+  .frase {
+    width: 550px;
+  }
+  .controle {
+    height: 1600px;
+    margin: 0 auto;
+    align-items: center;
+  }
+  .subtitulo4 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .subtitulo5 {
+    font-size: 12px;
+  }
+  .controle_lista li {
+    padding: 10px;
+  }
+  .controle_lista a {
+    font-size: 16px;
+  }
+  .controle_lista p {
+    font-size: 15px;
+  }
+  .duvida-controle {
+    padding-left: 100px;
+  }
+  .tipo_item {
+    height: 830px;
+  }
+  .tipo_item h2 {
+    text-align: center;
+    font-size: 14px;
+    top: -100px;
+    margin-bottom: -68px;
+  }
+  .tipo_icone {
+    padding: 41px 0;
+    margin-left: 0px;
+  }
+  .tipo_info p {
+    font-size: 20px;
+    line-height: 20px;
+    height: auto;
+    padding: 20px 30px;
+  }
+  .tipo_info ul {
+    display: none;
+  }
+  .tipo_info ul li {
+    width: 149px;
+    height: 49px;
+    font-size: 18px;
+    line-height: 20px;
+    padding-top: 14px;
+  }
+  .duvida-caca {
+    padding-left: 100px;
+  }
+  .locais {
+    height: 2460px;
+    padding-left: 0px;
+    padding-top: 60px;
+    padding-right: 420px;
+  }
+  .container-loc {
+    margin-left: 20px;
+  }
+  .sub6 {
+    width: 500px;
+    font-size: 30px;
+    text-align: left;
+  }
+  .sub6:after {
+    display: none;
+  }
+  .p {
+    width: 500px;
+    text-align: left;
+  }
+  .local_item {
+    width: 500px;
+  }
+  .local_item h2 {
+    font-size: 22px;
+  }
+  .local_item a {
+    font-size: 18px;
+  }
+  .call-l p {
+    text-align: left;
+  }
+  .call-l {
+    text-align: left;
+  }
+  .blog {
+    padding: 60px 20px;
+    height: 700px;
+  }
+  .container-blog {
+    width: 300px;
+    padding-left: 0px;
+  }
+  .item {
+    width: 300px;
+  }
+  .item p {
+    padding: 20px 20px;
+    font-size: 18px;
+  }
+  .item1 p {
+    font-size: 10px;
+  }
+  .blog1 {
+    width: 300px;
+    font-size: 14px;
+  }
+  .blog1 h2 {
+    font-size: 14px;
+  }
+  .blog1 p {
+    width: 340px;
+    font-size: 18px;
+  }
+  .blog1 a {
+    font-size: 16px;
+  }
+  .blog2 {
+    width: 300px;
+    font-size: 14px;
+  }
+  .blog2 h2 {
+    font-size: 14px;
+  }
+  .blog2 p {
+    width: 340px;
+    font-size: 18px;
+  }
+  .blog2 a {
+    font-size: 16px;
+  }
+  .blog3 {
+    width: 300px;
+    font-size: 14px;
+  }
+  .blog3 h2 {
+    font-size: 14px;
+  }
+  .blog3 p {
+    width: 340px;
+    font-size: 18px;
+  }
+  .blog3 a {
+    font-size: 16px;
+  }
+  .per-res h3 {
+    font-size: 0.9rem;
+  }
+  .per-res p {
+    font-size: 1.6rem;
+  }
+  .accordion {
+    font-size: 20px;
+  }
+  .panel p {
+    font-size: 18px;
+  }
+  .mapa {
+    padding-top: 60px;
+    padding-left: 0px;
+    padding-right: 420px;
+  }
+  .mapa_item li {
+    font-size: 12px;
+  }
+  .subtitulo61 {
+    width: 500px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-align: left;
+  }
+  .subtitulo61:after {
+    display: none;
+  }
+  .footer {
+    padding-left: 0px;
+    padding-right: 380px;
+  }
+  .copy p {
+    font-size: 0.8125rem;
+  }
+  .folder_desentupidora {
+    background: url("../img/intro_sobre-smart.jpg") no-repeat center;
+    background-size: cover;
+    margin-top: 0px;
+  }
+  .folder {
+    font-size: 30px;
+  }
+  .servicos {
+    height: 4330px;
+  }
+  .servicos h2 {
+    font-size: 14px;
+  }
+  .titulo2 {
+    font-size: 24px;
+  }
+  .servicos_lista li a {
+    font-size: 20px;
+  }
+  .servicos_lista2 li a {
+    font-size: 20px;
+  }
+  .duvida2 p {
+    font-size: 18px;
+  }
+  .duvida p {
+    font-size: 14px;
+  }
+  .footer {
+    margin-top: 0px;
+  }
+  .folder_dedetizadora {
+    background: url("../img/intro_dede-smart.jpg") no-repeat center;
+    background-size: cover;
+    margin-top: 0px;
+    padding-right: 250px;
+  }
+  .introducao_folder2 .folder_dedetizadora {
+    padding-right: 300px;
+  }
+  .introducao_folder2 h1 {
+    width: 500px;
+    font-size: 1.25rem;
+  }
+  .folder_dedetizadora h1 {
+    width: 500px;
+    text-align: left;
+  }
+  .introducao_folder2 p {
+    text-align: center;
+  }
+  .tipo2 {
+    padding: 40px 0px;
+    height: 1050px;
+    margin-left: 234px;
+    margin-right: 234px;
+  }
+  .tipo2_lista {
+    padding-top: 10px;
+  }
+  .tipo2_titulo h2 {
+    font-size: 18px;
+  }
+  .tipo2_lista li p {
+    font-size: 18px;
+  }
+  .tipo2_lista .destaque {
+    padding-top: 10px;
+  }
+  .call {
+    padding: 30px;
+  }
+  .duvida p {
+    font-size: 12px;
+  }
+  .duvida2 p {
+    font-size: 1rem;
+  }
+  .duvida2 a {
+    width: 100px;
+  }
+  .qualidade_dede {
+    margin-left: 250px;
+    height: 1120px;
+  }
+  .subtitulo_dede {
+    font-size: 16px;
+    padding: 5px;
+  }
+  .qualidade_dede:after {
+    display: none;
+  }
+  .call p {
+    padding: 20px;
+  }
+  .content {
+    padding: 8px 8px;
+    margin: 0px auto;
+  }
+  .content-dede {
+    padding-bottom: 40px;
+    padding-left: 10px;
+  }
+  .texto {
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: -0.005em;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  .caca {
+    width: 450px;
+    height: 790px;
+    padding-top: 30px;
+  }
+  .folder_caca-vazamento {
+    padding-right: 180px;
+  }
+  .folder_caça-vazamento {
+    margin: 0 auto;
+  }
+  .folder_caca-vazamento h1 {
+    font-size: 26px;
+    width: 500px;
+  }
+  .introducao_folder2 p {
+    width: 500px;
+  }
+  .quebre {
+    padding-bottom: 20px;
+  }
+  .quebre h3 {
+    font-size: 2rem;
+  }
+  .quebre1 h2 {
+    display: none;
+  }
+  .quebre1 p {
+    font-size: 18px;
+  }
+  .imagem_quebre {
+    display: none;
+  }
+  .qualidade_home {
+    height: 990px;
+  }
+  .tipo3 {
+    padding: 40px 0;
+    height: 960px;
+  }
+  .tipo3_titulo h2 {
+    font-size: 20px;
+  }
+  .tipo3_lista li p {
+    font-size: 18px;
+  }
+  .quebre1 p {
+    padding: 20px 70px;
+  }
+  .folder_atuacao {
+    margin: 0 auto;
+    padding-right: 180px;
+  }
+  .folder_atuacao h3 {
+    padding-left: 0px;
+    width: 500px;
+  }
+  .folder_dedetizadora p {
+    font-size: 18px;
+    text-align: left;
+  }
+  .subtitulo6 {
+    font-size: 18px;
+  }
+  .serv {
+    height: 2230px;
+  }
+  .qualidade_home {
+    margin-left: 225px;
+    height: 1100px;
+  }
+  .qualidade_lista h3 {
+    font-size: 20px;
+  }
+  .qualidade_lista p {
+    font-size: 20px;
+  }
+  .zona1 a {
+    font-size: 10px;
+  }
+  .bairros-zl {
+    width: 500px;
+    height: 530px;
+  }
+  .folder_regioes h1 {
+    font-size: 2rem;
+    margin-top: 80px;
+  }
+  .folder_principal h2 {
+    font-size: 16px;
+  }
+  .folder_principal21 {
+    top: -122px;
+    width: 550px;
+    padding: 0px;
+    bottom: 85px;
+  }
+  .folder_principal21 h2 {
+    font-size: 1.75rem;
+    padding-top: 150px;
+  }
+  .folder_principal21 img {
+    display: none;
+  }
+  .lista-regioes li a {
+    font-size: 14px;
+  }
+  .links-regioes {
+    padding-top: 5px;
+  }
+  .lista-zonas {
+    padding-top: 60px;
+    height: 560px;
+  }
+  .lista-zonas a {
+    font-size: 16px;
+  }
+  .ligar p {
+    font-size: 2.8vw;
+  }
+  .folder_principal2 {
+    height: 180px;
+    width: 546px;
+    top: -50px;
+  }
+  .duvida h2 {
+    width: 520px;
+    text-align: center;
+    font-size: 1.4375rem;
+    padding-left: 0px;
+    padding-right: 20px;
+  }
+  .links-ralo {
+    height: 620px;
+    padding-left: 0px;
+  }
+  .li-ralo a {
+    font-size: 12px;
+  }
+  .descricao-ralo {
+    height: auto;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .descricao-ralo p {
+    font-size: 14px;
+  }
+  .descricao-ralo1 {
+    height: auto;
+  }
+  .descricao-ralo1 h3 {
+    font-size: 16px;
+  }
+  .descricao-ralo1 p {
+    text-align: center;
+  }
+  .descricao-ralo2 {
+    height: auto;
+  }
+  .descricao-ralo2 p {
+    text-align: center;
+  }
+  .descricao-ralo3 {
+    height: auto;
+  }
+  .descricao-ralo3 p {
+    text-align: center;
+  }
+  .descricao-ralo4 {
+    height: auto;
+  }
+  h2.hid {
+    font-size: 28px;
+  }
+  .descricao-ralo4 p {
+    text-align: center;
+  }
+  .descricao-ralo5 {
+    height: auto;
+  }
+  .descricao-ralo5 h3 {
+    font-size: 16px;
+  }
+  .descricao-ralo5 p {
+    text-align: center;
+  }
+  .duvida5 {
+    padding-right: 0;
+  }
+  .duvida5 a {
+    width: 100px;
+  }
+  .introducao_folder2 {
+    padding-right: 195px;
+  }
+  h2.vs {
+    padding-right: 0px;
+  }
+  .ligar p {
+    padding-right: 0;
+    padding-left: 0;
+    font-size: 1.625rem;
+  }
+  h2.cg {
+    font-size: 1.375rem;
+  }
+  .bairros-zc {
+    padding-top: 10px;
+    margin-right: 250px;
+    height: 400px;
+  }
+  .duvida h1 {
+    width: 520px;
+    text-align: center;
+    font-size: 24px;
+    padding-left: 0px;
+    padding-right: 20px;
+  }
+  .descricao-ralo20 {
+    height: 200px;
+    padding-left: 0px;
+    text-align: center;
+  }
+  .bairros-zl20 {
+    width: 400px;
+    height: 390px;
+  }
+  .folder_principal211 {
+    width: 600px;
+    height: 320px;
+    padding-left: 60px;
+  }
+  .duvidab h1 {
+    padding-left: 0px;
+    width: 500px;
+    padding-top: 10px;
+    font-size: 2rem;
+  }
+  .duvidab-jp {
+    padding-right: 210px;
+  }
+  .duvidab-jp h1 {
+    padding-left: 0px;
+    width: 500px;
+    padding-right: 0px;
+    margin-right: 0px;
+    padding-top: 15px;
+    font-size: 24px;
+  }
+  #cookies {
+    width: 100%;
+    height: 122px;
+    top: 576px;
+  }
+  p.pol {
+    margin-bottom: 40px;
+  }
+  .pag-erro {
+    margin-top: 110px;
+  }
+  .folder_erro {
+    height: 165px;
+  }
+  p.p-erro {
+    font-size: 17px;
+  }
+  @media only screen and (max-width: 768px) {
+    .bairros-zl20 {
+      height: 400px;
+    }
+    .folder_principal211 {
+      padding-left: 70px;
+    }
+    .duvidab-jp {
+      padding-right: 200px;
+    }
+    #cookies {
+      top: auto;
+    }
+    p.pol {
+      margin-bottom: 40px;
+      width: 590px;
+      font-size: 0.75rem;
+    }
+    .introducao-pag {
+      height: 1024px;
+      padding-top: 220px;
+    }
+    .folder_erro {
+      height: 165px;
+    }
+    h3.tit-erro {
+      font-size: 2rem;
+    }
+    p.p-erro {
+      font-size: 22px;
+    }
+  }
+  @media only screen and (max-width: 699px) {
+    .clientes {
+      margin-left: 180px;
+      margin-right: 180px;
+    }
+    .duvida11 {
+      padding-left: 114px;
+    }
+    .duvida-dede {
+      padding-left: 70px;
+    }
+    .qualidade_home {
+      margin-left: 190px;
+      margin-right: 190px;
+    }
+    .duvida-controle {
+      padding-left: 60px;
+    }
+    .tipo2 {
+      margin-left: 180px;
+      margin-right: 180px;
+    }
+    .qualidade_dede {
+      margin-left: 200px;
+    }
+    .duvida-caca {
+      padding-left: 40px;
+    }
+    .locais {
+      padding-right: 360px;
+    }
+    .bairros-zl {
+      padding-right: 80px;
+    }
+    .bairros-zl20 {
+      height: 550px;
+    }
+    .folder_principal211 {
+      width: 470px;
+      height: 400px;
+      padding-left: 120px;
+    }
+    .introducao-pag {
+      height: 825px;
+      padding-top: 125px;
+    }
+  }
+  @media only screen and (max-width: 687px) {
+    .introducao {
+      padding-top: 67px;
+    }
+    .introducao h1 {
+      font-size: 28px;
+    }
+    .duvida11 {
+      padding-left: 114px;
+    }
+    .duvida-dede {
+      padding-left: 68px;
+    }
+    .duvida-controle {
+      padding-left: 42px;
+    }
+    .duvida-caca {
+      padding-left: 50px;
+    }
+    .tipo2 {
+      margin-left: 174px;
+      margin-right: 174px;
+    }
+    .qualidade_home {
+      margin-right: 0;
+      margin-left: 190px;
+    }
+    .quebra {
+      padding-top: 60px;
+    }
+    .frase {
+      width: 500px;
+    }
+    .frase p {
+      font-size: 1.125rem;
+      line-height: 19px;
+    }
+    .locais {
+      margin-left: 10px;
+    }
+    .blog {
+      height: 630px;
+      padding: 30px 0 30px 0;
+    }
+    .container-blog {
+      padding-left: 10px;
+    }
+    .perguntas {
+      padding: 30px 0 30px 0;
+    }
+    .mapa {
+      padding: 30px 310px 30px 0;
+    }
+    .item p {
+      font-size: 14px;
+    }
+    .footer {
+      padding: 20px 380px 20px 30px;
+    }
+    .copy p {
+      font-size: 0.8125rem;
+    }
+    .qualidade_dede {
+      margin-left: 194px;
+    }
+    .serv {
+      height: 2160px;
+    }
+    .introducao_folder2 h1 {
+      font-size: 22px;
+    }
+    .duvida h2 {
+      padding-right: 40px;
+    }
+    .ligar p {
+      font-size: 22px;
+    }
+    h2.vs {
+      padding-right: 0px;
+    }
+    h2.cg {
+      font-size: 22px;
+      padding-right: 0px;
+    }
+    .descricao-ralo1 h3 {
+      font-size: 23px;
+    }
+    h2.con {
+      font-size: 23px;
+    }
+    h2.ap {
+      font-size: 23px;
+      padding-right: 0px;
+    }
+    .descricao-ralo3 h3 {
+      font-size: 1.125rem;
+    }
+    .descricao-ralo4 h3 {
+      font-size: 1.5rem;
+    }
+    .descricao-ralo5 h3 {
+      font-size: 1.125rem;
+    }
+    .duvida h1 {
+      padding-right: 40px;
+    }
+    .bairros-zl20 {
+      height: 580px;
+      width: 400px;
+      margin-bottom: 0px;
+    }
+  }
+  @media only screen and (max-width: 649px) {
+    .bairros-zl {
+      padding-left: 80px;
+      width: 400px;
+      height: 650px;
+    }
+    .folder_principal21 {
+      width: 450px;
+      bottom: 85px;
+    }
+    .bairros-zc {
+      margin-right: 160px;
+      height: 510px;
+    }
+    .folder_principal21 h2 {
+      padding-top: 150px;
+      font-size: 24px;
+    }
+    .tipo2 {
+      margin-left: 150px;
+      margin-right: 170px;
+    }
+    #cookies {
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    p.pol {
+      width: 500px;
+    }
+  }
+  @media only screen and (max-width: 640px) {
+    .clientes {
+      margin-left: 170px;
+      margin-right: 170px;
+    }
+    .servicos_dese {
+      margin-left: 170px;
+      margin-right: 170px;
+    }
+    .qualidade_home {
+      margin-left: 170px;
+    }
+    .qualidade_dede {
+      margin-left: 170px;
+    }
+    .bairros-zl20 {
+      padding-left: 120px;
+      height: 430px;
+    }
+    .folder_principal211 {
+      padding-left: 50px;
+      width: 532px;
+    }
+    .bairros-zl20 {
+      height: 550px;
+      padding-left: 0px;
+    }
+    #cookies {
+      top: auto;
+    }
+    .introducao-pag {
+      height: 640px;
+      padding-top: 0;
+    }
+    .introducao-pag h2 {
+      font-size: 38px;
+    }
+    .pag-erro {
+      margin-top: 180px;
+    }
+    p.p-erro {
+      font-size: 18px;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    .introducao h1 {
+      font-size: 1.5rem;
+    }
+    .duvida11 {
+      padding-left: 30px;
+    }
+    .clientes {
+      margin-left: 140px;
+      margin-right: 140px;
+    }
+    .servicos_dese {
+      margin-left: 150px;
+      margin-right: 150px;
+    }
+    .duvida-dede {
+      padding-left: 20px;
+    }
+    .qualidade_home {
+      margin-left: 150px;
+    }
+    .frase {
+      margin-left: 35px;
+      margin-right: 35px;
+    }
+    .controle {
+      margin-left: 150px;
+      margin-right: 150px;
+    }
+    .duvida-controle {
+      padding-left: 20px;
+    }
+    .duvida-controle p {
+      margin-right: 0px;
+      padding-right: 20px;
+      padding-left: 20px;
+    }
+    .tipo2 {
+      margin-left: 135px;
+      margin-right: 135px;
+    }
+    .tipo_item {
+      margin-left: 150px;
+      margin-right: 150px;
+    }
+    .duvida-caca {
+      padding-left: 30px;
+    }
+    .duvida-caca p {
+      padding-left: 20px;
+      padding-right: 20px;
+      margin-right: 0px;
+      font-size: 16px;
+    }
+    .duvida-caca a {
+      margin-right: 80px;
+    }
+    .mapa {
+      padding-left: 20px;
+    }
+    .qualidade_dede {
+      margin-left: 150px;
+    }
+    .content-dede {
+      padding-right: 10px;
+    }
+    .sub6 {
+      font-size: 1.5rem;
+    }
+    .folder_principal21 h2 {
+      font-size: 39px;
+    }
+    .duvidab h1 {
+      padding-left: 40px;
+    }
+    .bairros-zl {
+      padding-right: 0;
+      padding-left: 50px;
+    }
+    .bairros-zl20 {
+      height: 470px;
+      padding-left: 20px;
+    }
+    .folder_principal211 {
+      padding-left: 0px;
+      padding-right: 40px;
+      margin-bottom: 0px;
+    }
+    .duvidab-jp {
+      padding-right: 110px;
+    }
+    .duvidab-jp h1 {
+      width: 390px;
+    }
+    #cookies {
+      top: auto;
+    }
+    .introducao-pag {
+      height: 960px;
+      padding-top: 250px;
+    }
+    @media only screen and (max-width: 574px) {
+      .clientes {
+        margin-left: 125px;
+        margin-right: 125px;
+      }
+      .servicos_dese {
+        margin-left: 137px;
+        margin-right: 137px;
+      }
+      .qualidade_home {
+        margin-left: 137px;
+      }
+      .controle {
+        margin-left: 137px;
+        margin-right: 137px;
+      }
+      .tipo_item {
+        margin-left: 137px;
+        margin-right: 137px;
+      }
+      .tipo2 {
+        margin-left: 107px;
+        margin-right: 107px;
+      }
+      .qualidade_dede {
+        margin-left: 137px;
+      }
+      .bairros-zl {
+        padding-right: 30px;
+        padding-left: 30px;
+        width: 400px;
+        height: 650px;
+      }
+      .folder_principal21 {
+        width: 470px;
+        padding-right: 0;
+      }
+      .bairros-zc {
+        margin-right: 160px;
+        height: 520px;
+      }
+      .bairros-zl20 {
+        width: 300px;
+        height: 500px;
+        padding-left: 40px;
+      }
+      p.pol {
+        width: 430px;
+      }
+      .introducao-pag {
+        padding-top: 130px;
+        height: 780px;
+      }
+      .pag-erro {
+        margin-top: 100px;
+      }
+      p.p-erro {
+        font-size: 16px;
+      }
+    }
+    @media only screen and (max-width: 554px) {
+      .servicos_dese {
+        margin-left: 120px;
+        margin-right: 120px;
+      }
+      .qualidade_home {
+        margin-left: 120px;
+      }
+      .controle {
+        margin-left: 120px;
+        margin-right: 120px;
+      }
+      .tipo_item {
+        margin-left: 120px;
+        margin-right: 120px;
+      }
+      .tipo2 {
+        margin-left: 117px;
+        margin-right: 117px;
+      }
+      .qualidade_dede {
+        margin-left: 120px;
+      }
+      .bairros-zl {
+        padding-right: 60px;
+        padding-left: 80px;
+        width: 400px;
+        height: 680px;
+      }
+      .folder_principal21 {
+        width: 380px;
+      }
+      .folder_principal21 h2 {
+        font-size: 20px;
+      }
+      .bairros-zc {
+        margin-right: 160px;
+        height: 560px;
+        width: 438px;
+      }
+      .bairros-zl20 {
+        width: 300px;
+        padding-left: 85px;
+        height: 580px;
+      }
+      .folder_principal211 {
+        padding-right: 0;
+        width: 380px;
+      }
+    }
+    @media only screen and (max-width: 540px) {
+      .tipo2 {
+        margin-left: 100px;
+        margin-right: 100px;
+      }
+      .bairros-zl {
+        padding-left: 0px;
+      }
+      .bairros-zl20 {
+        padding-left: 90px;
+      }
+      .introducao-pag {
+        height: 720px;
+        padding-top: 145px;
+      }
+      .pag-erro {
+        margin-top: 200px;
+      }
+      .call-erro {
+        width: 540px;
+      }
+    }
+    @media only screen and (max-width: 534px) {
+      .introducao {
+        padding-left: 10px;
+      }
+      .introducao h1 {
+        font-size: 1.625rem;
+      }
+      .introducao p {
+        font-size: 1.5rem;
+      }
+      .lista_intro {
+        font-size: 1.125rem;
+      }
+      .clientes {
+        margin-left: 107px;
+        margin-right: 107px;
+      }
+      .duvida11 {
+        padding-left: 0px;
+      }
+      .duvida11 p {
+        font-size: 1.0625rem;
+      }
+      .servicos_dese {
+        margin-left: 117px;
+        margin-right: 117px;
+      }
+      .duvida-dede {
+        padding-left: 0;
+        padding-right: 20px;
+      }
+      .qualidade_home {
+        margin-right: 0;
+        margin-left: 117px;
+      }
+      .qualidade_dede {
+        margin-left: 117px;
+      }
+      .frase {
+        margin-left: 0px;
+        margin-right: 0px;
+      }
+      .frase p {
+        font-size: 0.8125rem;
+      }
+      .controle {
+        margin-left: 117px;
+        margin-right: 117px;
+      }
+      .duvida-controle {
+        padding-left: 0;
+        padding-right: 20px;
+      }
+      .duvida-controle p {
+        font-size: 1.25rem;
+      }
+      .tipo_item {
+        margin-left: 117px;
+        margin-right: 117px;
+      }
+      .duvida-caca {
+        padding-right: 20px;
+        padding-left: 0;
+      }
+      .sub6 {
+        font-size: 1.25rem;
+      }
+      .p {
+        font-size: 1rem;
+      }
+      .subtitulo61 {
+        padding-left: 10px;
+        padding-right: 0px;
+        width: 310px;
+      }
+      .local_item h2 {
+        font-size: 1.125rem;
+      }
+      .local_item a {
+        font-size: 1rem;
+      }
+      .mapa_item {
+        padding-left: 10px;
+      }
+      .footer {
+        padding-right: 340px;
+      }
+      .folder_atuacao {
+        padding-right: 210px;
+      }
+      .bairros-zl {
+        padding-right: 40px;
+        padding-left: 40px;
+        width: 400px;
+        height: 580px;
+      }
+      .folder_principal21 {
+        padding-top: 90px;
+        width: 450px;
+      }
+      .bairros-zc {
+        margin-right: 160px;
+        width: 370px;
+        height: 455px;
+      }
+      .folder_principal21 h2 {
+        padding-top: 60px;
+        font-size: 1.6875rem;
+      }
+      .lista-zonas {
+        padding-top: 60px;
+      }
+      .introducao_folder2 {
+        padding-right: 180px;
+      }
+      .introducao_folder2 h1 {
+        width: 480px;
+        font-size: 1.3125rem;
+      }
+      .folder_principal2 {
+        width: 450px;
+      }
+      .folder_dedetizadora h1 {
+        padding-left: 10px;
+      }
+      .folder_dedetizadora p {
+        padding-left: 10px;
+      }
+      .duvida {
+        margin-top: 0;
+      }
+      .duvidab {
+        margin-top: 0;
+      }
+      .duvida h2 {
+        width: 490px;
+        padding-right: 0;
+      }
+      .duvidab h1 {
+        width: 490px;
+        padding-right: 0;
+      }
+      h2.vs {
+        font-size: 1.375rem;
+        padding-right: 0;
+      }
+      h2.cg {
+        font-size: 1.25rem;
+        padding-right: 0;
+      }
+      h2.con {
+        padding-right: 0;
+      }
+      h2.fos {
+        padding-right: 0;
+      }
+      h2.ap {
+        font-size: 1.3125rem;
+        padding-right: 0px;
+      }
+      .duvida h1 {
+        width: 490px;
+        padding-right: 0;
+      }
+      .duvidab h1 {
+        padding-left: 35px;
+      }
+      .bairros-zl20 {
+        padding-left: 65px;
+        height: 574px;
+      }
+      .call-erro {
+        width: 500px;
+      }
+    }
+    @media only screen and (max-width: 523px) {
+      .tipo2 {
+        margin-left: 112px;
+        margin-right: 112px;
+      }
+      .qualidade_dede {
+        margin-left: 112px;
+      }
+      .bairros-zl {
+        padding-right: 60px;
+        padding-left: 60px;
+        width: 400px;
+        height: 700px;
+      }
+      .folder_principal21 {
+        width: 450px;
+        padding-top: 0;
+        top: 0px;
+        width: 400px;
+      }
+      .bairros-zc {
+        margin-right: 0;
+        padding-left: 50px;
+        height: 540px;
+      }
+      .folder_principal21 h2 {
+        padding-top: 60px;
+        font-size: 22px;
+      }
+      .pag-erro {
+        margin-top: 100px;
+      }
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .introducao {
+      padding-left: 20px;
+    }
+    .introducao h1 {
+      font-size: 2.2rem;
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .introducao p {
+      font-size: 1.5rem;
+    }
+    .clientes {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .lista_intro {
+      font-size: 1.125rem;
+    }
+    .duvida11 {
+      padding-left: 0px;
+    }
+    .duvida11 p {
+      font-size: 1.0625rem;
+    }
+    .servicos_dese {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .duvida-dede {
+      padding-left: 0;
+      padding-right: 20px;
+    }
+    .qualidade_home {
+      margin-right: 0;
+      margin-left: 100px;
+    }
+    .qualidade_dede {
+      margin-left: 100px;
+    }
+    .frase {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+    .frase p {
+      font-size: 0.8125rem;
+    }
+    .controle {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .duvida-controle {
+      padding-left: 0;
+      padding-right: 20px;
+    }
+    .duvida-controle p {
+      font-size: 1.25rem;
+    }
+    .tipo2 {
+      margin-left: 75px;
+      margin-right: 75px;
+    }
+    .tipo_item {
+      margin-left: 100px;
+      margin-right: 100px;
+    }
+    .duvida-caca {
+      padding-right: 20px;
+      padding-left: 0;
+    }
+    .sub6 {
+      font-size: 1.25rem;
+      width: 350px;
+    }
+    .p {
+      font-size: 1rem;
+      width: 384px;
+    }
+    .subtitulo61 {
+      padding-left: 10px;
+      padding-right: 0px;
+      width: 310px;
+    }
+    .local_item {
+      width: 400px;
+    }
+    .local_item h2 {
+      font-size: 1.125rem;
+    }
+    .local_item a {
+      font-size: 1rem;
+    }
+    .mapa_item {
+      padding-left: 10px;
+    }
+    .footer {
+      padding-right: 340px;
+    }
+    .folder_atuacao {
+      padding-right: 210px;
+    }
+    .bairros-zl {
+      padding-right: 60px;
+      padding-left: 0;
+      width: 400px;
+      height: 620px;
+    }
+    .folder_principal21 {
+      width: 450px;
+    }
+    .bairros-zc {
+      margin-right: 0;
+      padding-left: 0;
+      padding-right: 30px;
+      height: 492px;
+    }
+    .folder_principal21 h2 {
+      padding-top: 60px;
+      font-size: 22px;
+    }
+    .lista-zonas {
+      padding-top: 60px;
+    }
+    .introducao_folder2 {
+      padding-right: 200px;
+    }
+    .introducao_folder2 h1 {
+      width: 480px;
+      font-size: 1.3125rem;
+    }
+    .folder_principal2 {
+      width: 450px;
+    }
+    .folder_dedetizadora h1 {
+      padding-left: 10px;
+    }
+    .folder_dedetizadora p {
+      padding-left: 10px;
+    }
+    .duvida {
+      margin-top: 0;
+    }
+    .duvida h2 {
+      width: 490px;
+      padding-right: 0;
+    }
+    .duvidab {
+      margin-top: 0;
+    }
+    .duvidab h1 {
+      width: 300px;
+      padding-right: 0;
+      padding-left: 0;
+      padding-top: 20px;
+      margin-left: 90px;
+      font-size: 1.25rem;
+    }
+    h2.vs {
+      font-size: 1.375rem;
+      padding-right: 0;
+    }
+    h2.cg {
+      font-size: 1.25rem;
+      padding-right: 0;
+    }
+    h2.con {
+      padding-right: 0;
+    }
+    h2.fos {
+      padding-right: 0;
+    }
+    h2.ap {
+      font-size: 1.3125rem;
+      padding-right: 0px;
+    }
+    .duvida h1 {
+      width: 490px;
+      padding-right: 0;
+    }
+    .bairros-zl20 {
+      height: 560px;
+      padding-left: 60px;
+    }
+  }
+
+  @media only screen and (max-width: 480px) {
+    .introducao h1 {
+      padding-top: 10px;
+      font-size: 1.5rem;
+    }
+    .clientes {
+      margin-left: 90px;
+      margin-right: 90px;
+    }
+    .duvida11 {
+      padding-left: 0px;
+    }
+    .servicos_dese {
+      margin-left: 90px;
+      margin-right: 90px;
+    }
+    .duvida-dede {
+      padding-left: 0;
+      padding-right: 70px;
+    }
+    .qualidade_home {
+      margin-left: 90px;
+    }
+    .quebra {
+      width: 480px;
+      padding-top: 50px;
+      padding-left: 45px;
+    }
+    .frase {
+      width: 330px;
+      margin-left: 20px;
+      margin-right: 0px;
+    }
+    .frase p {
+      font-size: 0.75rem;
+    }
+    .duvida-dede {
+      padding-left: 0;
+      padding-right: 70px;
+    }
+    .controle {
+      margin-left: 90px;
+      margin-right: 90px;
+    }
+    .duvida-controle {
+      padding-left: 0;
+      padding-right: 50px;
+    }
+    .duvida-controle p {
+      font-size: 1rem;
+    }
+    .duvida-caca {
+      padding-right: 20px;
+      padding-left: 0;
+    }
+    .tipo_item {
+      margin-left: 90px;
+      margin-right: 90px;
+    }
+    .locais {
+      height: 2450px;
+      padding-right: 200px;
+      margin-left: 0px;
+      padding-left: 10px;
+    }
+    .sub6 {
+      width: 400px;
+      font-size: 1.125rem;
+    }
+    .p {
+      width: 400px;
+    }
+    .local_item {
+      width: 300px;
+    }
+    .local_item h2 {
+      font-size: 0.8125rem;
+    }
+    .local_item a {
+      font-size: 0.6875rem;
+    }
+    .mapa {
+      padding-right: 200px;
+    }
+    .subtitulo61 {
+      padding-left: 10px;
+      padding-right: 0px;
+      width: 410px;
+    }
+    .mapa_item {
+      padding-left: 10px;
+    }
+    .folder_dedetizadora {
+      padding-left: 10px;
+    }
+    .folder_dedetizadora h1 {
+      width: 400px;
+    }
+    .folder_dedetizadora p {
+      width: 400px;
+    }
+    .folder_caca-vazamento {
+      padding-top: 40px;
+      padding-right: 100px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 400px;
+      font-size: 1.25rem;
+    }
+    .folder_caca-vazamento p {
+      width: 400px;
+    }
+    .folder_atuacao {
+      padding-right: 100px;
+      padding-top: 20px;
+    }
+    .folder_atuacao h3 {
+      width: 400px;
+    }
+    .folder_atuacao p {
+      width: 400px;
+    }
+    .qualidade_dede {
+      margin-left: 90px;
+    }
+    .tipo2 {
+      margin-left: 75px;
+      margin-right: 75px;
+    }
+    .bairros-zl {
+      height: 820px;
+      padding-right: 0;
+      padding-left: 0;
+    }
+    .folder_principal21 {
+      width: 380px;
+    }
+    .folder_principal21 h2 {
+      font-size: 2.25rem;
+    }
+    .bairros-zc {
+      height: 680px;
+      padding-left: 30px;
+      padding-right: 0;
+    }
+    .folder_ralo {
+      padding-right: 100px;
+    }
+    .folder_ralo h1 {
+      width: 400px;
+    }
+    .folder_principal2 {
+      width: 450px;
+    }
+    .duvida h2 {
+      width: 440px;
+      padding-right: 0px;
+      padding-left: 20px;
+      font-size: 1.4375rem;
+    }
+    .folder_ralo h1 {
+      font-size: 1.0625rem;
+    }
+    h2.vs {
+      font-size: 26px;
+      padding-top: 0px;
+    }
+    h2.cg {
+      padding-left: 20px;
+      padding-top: 20px;
+      font-size: 1.125rem;
+    }
+    h2.con {
+      font-size: 1.3125rem;
+    }
+    h2.col {
+      font-size: 1.375rem;
+    }
+    h2.ap {
+      font-size: 1.1875rem;
+    }
+    .duvida h1 {
+      width: 440px;
+      padding-right: 0px;
+      padding-left: 20px;
+      font-size: 1.4375rem;
+    }
+    .duvidab h1 {
+      width: 435px;
+      padding-left: 38px;
+      font-size: 26px;
+    }
+    .bairros-zl20 {
+      padding-left: 45px;
+      height: 560px;
+    }
+    .folder_principal211 {
+      padding-right: 0px;
+      width: 380px;
+      padding-left: 0;
+    }
+    .introducao-pag {
+      height: 854px;
+      padding-top: 196px;
+    }
+    .introducao-pag h2 {
+      font-size: 30px;
+    }
+    .promo-pag p {
+      font-size: 24px;
+    }
+    .pag-erro {
+      margin-top: 150px;
+    }
+    .call-erro {
+      width: 480px;
+    }
+  }
+  @media only screen and (max-width: 414px) {
+    .introducao {
+      padding-left: 10px;
+    }
+    .introducao h1 {
+      font-size: 2rem;
+    }
+    .introducao p {
+      font-size: 1.5rem;
+    }
+    .lista_intro {
+      font-size: 1rem;
+    }
+    .introducao h4 {
+      font-size: 1.375rem;
+    }
+    .clientes {
+      margin-left: 55px;
+      margin-right: 55px;
+    }
+    .duvida11 {
+      padding-left: 15px;
+    }
+    .duvida11 p {
+      font-size: 0.75rem;
+    }
+    .duvida11 a {
+      width: 50px;
+      height: 50px;
+    }
+    .servicos_dese {
+      margin-left: 55px;
+      margin-right: 55px;
+    }
+    .duvida-dede {
+      padding-left: 0;
+      padding-right: 70px;
+    }
+    .qualidade_home {
+      margin-left: 55px;
+    }
+    .qualidade_dede {
+      margin-left: 55px;
+    }
+    .quebra {
+      width: 414px;
+      padding-top: 50px;
+      padding-left: 20px;
+    }
+    .frase {
+      width: 330px;
+      margin-left: 20px;
+      margin-right: 0px;
+    }
+    .frase p {
+      font-size: 0.75rem;
+    }
+    .controle {
+      margin-left: 55px;
+      margin-right: 55px;
+    }
+    .subtitulo4 {
+      font-size: 1rem;
+    }
+    .duvida-controle {
+      padding-left: 0;
+      padding-right: 80px;
+    }
+    .duvida-controle p {
+      font-size: 1rem;
+    }
+    .duvida-caca {
+      padding-right: 20px;
+      padding-left: 0;
+    }
+    .sub6 {
+      width: 300px;
+      font-size: 1rem;
+    }
+    .p {
+      width: 300px;
+      font-size: 0.6875rem;
+    }
+    .locais {
+      height: 2500px;
+      padding-right: 200px;
+      margin-left: 0px;
+      padding-left: 10px;
+    }
+    .local_item {
+      width: 300px;
+    }
+    .local_item h2 {
+      font-size: 0.8125rem;
+    }
+    .local_item a {
+      font-size: 0.6875rem;
+    }
+    .mapa {
+      padding-right: 200px;
+    }
+    .subtitulo61 {
+      padding-left: 10px;
+      padding-right: 0px;
+      width: 410px;
+    }
+    .mapa_item {
+      padding-left: 10px;
+    }
+    .folder_atuacao {
+      padding-right: 210px;
+    }
+    .tipo2 {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    .bairros-zl {
+      width: 290px;
+      height: 650px;
+      padding-right: 0;
+      padding-left: 10px;
+    }
+    .folder_principal21 {
+      width: 390px;
+    }
+    .bairros-zc {
+      margin-right: 0;
+      height: 550px;
+      padding-left: 10px;
+      padding-right: 10px;
+      width: 320px;
+    }
+    .folder_principal21 h2 {
+      padding-top: 40px;
+      font-size: 20px;
+    }
+    .lista-zonas {
+      padding-top: 60px;
+    }
+    .introducao_folder2 {
+      padding-top: 70px;
+      padding-right: 200px;
+    }
+    .folder_caca-vazamento {
+      padding-top: 50px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 400px;
+      text-align: center;
+    }
+    .folder_caca-vazamento p {
+      text-align: center;
+      width: 400px;
+    }
+    .introducao_folder2 h1 {
+      width: 414px;
+      font-size: 1.125rem;
+    }
+    .folder_principal2 {
+      width: 300px;
+      top: 0px;
+      padding-top: 30px;
+    }
+    .folder_dedetizadora h1 {
+      padding-left: 10px;
+    }
+    .folder_dedetizadora p {
+      padding-left: 10px;
+      width: 310px;
+    }
+    .folder_atuacao {
+      padding-top: 20px;
+    }
+    .folder_atuacao h3 {
+      width: 400px;
+    }
+    .folder_atuacao p {
+      width: 400px;
+    }
+    .duvida {
+      margin-top: 0;
+      padding-right: 0;
+    }
+    .duvida h2 {
+      width: 300px;
+      padding-top: 0px;
+      padding-left: 10px;
+      text-align: center;
+    }
+    .duvidab {
+      margin-top: 0;
+      padding-right: 0;
+    }
+    .duvidab h1 {
+      width: 300px;
+      padding-top: 0px;
+      padding-left: 10px;
+      text-align: center;
+    }
+    .content-dede {
+      width: 310px;
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    h2.ca {
+      font-size: 1.5rem;
+      padding-top: 15px;
+      padding-right: 0px;
+      padding-left: 0px;
+    }
+    h2.vs {
+      font-size: 1.375rem;
+      padding-right: 0;
+    }
+    h2.cg {
+      font-size: 1.25rem;
+      padding-right: 0;
+    }
+    h2.con {
+      padding-right: 0;
+    }
+    h2.fos {
+      padding-right: 0;
+    }
+    h2.ap {
+      font-size: 1.3125rem;
+      padding-right: 0px;
+    }
+    .caca {
+      width: 400px;
+      height: 990px;
+    }
+    .quebre h3 {
+      letter-spacing: 2px;
+      line-height: 40px;
+    }
+    .duvida h1 {
+      width: 300px;
+      padding-top: 0px;
+      padding-left: 10px;
+      text-align: center;
+    }
+    .duvidab h1 {
+      width: 300px;
+      padding-top: 0px;
+      padding-left: 10px;
+      text-align: center;
+    }
+    .bairros-zl20 {
+      height: 550px;
+      padding-left: 10px;
+    }
+    .folder_principal211 {
+      width: 385px;
+    }
+    .duvidab-jp {
+      padding-right: 90px;
+    }
+    #cookies {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+    p.pol {
+      width: 370px;
+    }
+    .tipo_item {
+      margin-left: 55px;
+      margin-right: 55px;
+    }
+    .subtitulo61 {
+      width: 310px;
+    }
+    .introducao-pag {
+      height: 736px;
+      padding-top: 148px;
+    }
+    .introducao-pag h2 {
+      font-size: 26px;
+    }
+    .promo-pag p {
+      font-size: 20px;
+    }
+    .pag-erro {
+      margin-top: 100px;
+    }
+    p.p-erro {
+      font-size: 16px;
+    }
+    .call-erro {
+      width: 400px;
+    }
+  }
+  @media only screen and (max-width: 412px) {
+    .folder_principal21 h2 {
+      font-size: 2.25rem;
+    }
+    .bairros-zc {
+      padding-left: 0px;
+    }
+    .duvida h2 {
+      font-size: 1.4375rem;
+    }
+    h2.hid {
+      font-size: 1.6875rem;
+    }
+    .folder_atuacao {
+      padding-right: 90px;
+    }
+    .duvida-controle {
+      padding-right: 0px;
+    }
+    .duvida-controle a {
+      margin-right: 10px;
+    }
+    .quebra {
+      width: 411px;
+    }
+    .subtitulo61 {
+      width: 290px;
+    }
+    .duvida h1 {
+      font-size: 1.4375rem;
+    }
+    .duvidab h1 {
+      font-size: 1.1875rem;
+      padding-top: 14px;
+    }
+    .folder_dedetizadora h1 {
+      width: 330px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 380px;
+    }
+    .duvidab-jp h1 {
+      font-size: 1.1875rem;
+    }
+    .bairros-zl {
+      height: 745px;
+    }
+    .bairros-zc {
+      height: 632px;
+    }
+  }
+  @media only screen and (max-width: 411px) {
+    .quebra {
+      width: 411px;
+      padding-left: 0px;
+    }
+    .frase {
+      margin-left: 40px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 411px;
+    }
+    .duvidab-jp h1 {
+      font-size: 1.1875rem;
+    }
+    .introducao-pag {
+      height: 823px;
+      padding-top: 180px;
+    }
+  }
+  @media only screen and (max-width: 384px) {
+    .servicos_dese {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    .duvida-dede {
+      padding-right: 0px;
+    }
+    .duvida-dede a {
+      margin-right: 10px;
+    }
+    .qualidade_home {
+      margin-left: 40px;
+    }
+    .quebra {
+      width: 384px;
+    }
+    .frase {
+      margin-left: 30px;
+    }
+    .controle {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    .footer {
+      padding-right: 300px;
+    }
+    .introducao_folder2 h1 {
+      width: 300px;
+      font-size: 1rem;
+    }
+    .qualidade_dede {
+      margin-left: 40px;
+    }
+    .introducao_folder2 h1 {
+      width: 300px;
+      font-size: 15px;
+    }
+    .tipo2 {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+    .folder_caca-vazamento p {
+      width: 300px;
+      font-size: 15px;
+    }
+    .caca {
+      width: 384px;
+    }
+    .folder_atuacao {
+      padding-right: 0px;
+    }
+    .folder_atuacao h3 {
+      width: 300px;
+    }
+    .folder_atuacao p {
+      width: 300px;
+    }
+    .bairros-zl {
+      padding-right: 0px;
+      width: 384px;
+      height: 830px;
+    }
+    .folder_principal21 {
+      width: 300px;
+    }
+    .folder_principal21 h2 {
+      font-size: 27px;
+    }
+    .bairros-zc {
+      margin-right: 0px;
+      padding-left: 40px;
+      height: 600px;
+    }
+    .folder_ralo {
+      padding-right: 10px;
+      padding-top: 65px;
+    }
+    .folder_ralo h1 {
+      font-size: 14px;
+    }
+    .folder_principal211 {
+      width: 365px;
+    }
+    .duvidab-jp h1 {
+      font-size: 1.25rem;
+      width: 375px;
+    }
+    .tipo_item {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    #cookies {
+      top: auto;
+      height: 130px;
+    }
+    p.pol {
+      width: 300px;
+      margin-bottom: 50px;
+    }
+    .clientes {
+      margin-left: 0px;
+      left: 30px;
+      margin-right: 30px;
+      right: 0px;
+    }
+    .introducao-pag {
+      height: 640px;
+      padding-top: 148px;
+    }
+    h3.tit-erro {
+      font-size: 1.5rem;
+    }
+    p.p-erro {
+      font-size: 14px;
+    }
+    .call-erro {
+      width: 380px;
+    }
+  }
+  @media only screen and (max-width: 375px) {
+    .servicos_dese {
+      margin-left: 40px;
+      margin-right: 40px;
+    }
+    .duvida-dede {
+      padding-right: 0px;
+    }
+    .duvida-dede a {
+      margin-right: 10px;
+    }
+    .qualidade_home {
+      margin-left: 40px;
+    }
+    .quebra {
+      width: 375px;
+    }
+    .frase {
+      margin-left: 25px;
+    }
+    .controle {
+      margin-left: 35px;
+      margin-right: 35px;
+    }
+    .duvida-controle {
+      padding-right: 0px;
+    }
+    .duvida-controle a {
+      margin-right: 10px;
+    }
+    .tipo_item {
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+    .tipo2 {
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    .qualidade_dede {
+      margin-left: 38px;
+    }
+    .subtitulo61 {
+      width: 375px;
+    }
+    .subtitulo61 {
+      width: 290px;
+    }
+    .folder_dedetizadora h1 {
+      width: 365px;
+    }
+    .folder_dedetizadora p {
+      width: 310px;
+    }
+    .qualidade_dede {
+      margin-left: 35px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 336px;
+    }
+    .folder_caca-vazamento p {
+      width: 375px;
+    }
+    .caca {
+      width: 375px;
+    }
+    .folder_atuacao h3 {
+      width: 290px;
+    }
+    .introducao_folder2 p {
+      width: 290px;
+    }
+    .folder_principal21 {
+      width: 300px;
+    }
+    .bairros-zl {
+      height: 820px;
+      padding-right: 0px;
+      width: 375px;
+    }
+    .bairros-zc {
+      margin-right: 0px;
+    }
+    .folder_principal21 h2 {
+      font-size: 26px;
+    }
+    .folder_ralo {
+      padding-right: 80px;
+    }
+    .folder_ralo h1 {
+      width: 375px;
+    }
+    .footer {
+      padding-right: 300px;
+    }
+    .duvidab-jp h1 {
+      width: 370px;
+    }
+    .introducao-pag {
+      height: 812px;
+      padding-top: 148px;
+    }
+    .introducao-pag h2 {
+      font-size: 22px;
+    }
+    .promo-pag p {
+      font-size: 18px;
+    }
+    p.p-erro {
+      font-size: 13px;
+    }
+    .call-erro {
+      width: 370px;
+    }
+  }
+  @media only screen and (max-width: 360px) {
+    .introducao p {
+      font-size: 1.2rem;
+    }
+    .servicos_dese {
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+    .qualidade_home {
+      margin-left: 30px;
+    }
+    .controle {
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+    .quebra {
+      width: 360px;
+    }
+    .frase {
+      margin-left: 20px;
+    }
+    .subtitulo61 {
+      width: 300px;
+    }
+    .folder_dedetizadora {
+      padding-top: 50px;
+    }
+    .folder_dedetizadora h1 {
+      width: 310px;
+    }
+    .introducao_folder2 p {
+      width: 300px;
+    }
+    .qualidade_dede {
+      margin-left: 30px;
+    }
+    .content-dede {
+      margin-left: 30px;
+      margin-right: 30px;
+    }
+    .folder_caca-vazamento {
+      padding-right: 0px;
+    }
+    .folder_caca-vazamento h1 {
+      width: 300px;
+    }
+    .introducao_folder2 p {
+      width: 300px;
+    }
+    .caca {
+      width: 360px;
+    }
+    .duvida-caca a {
+      margin-right: 0;
+    }
+    .folder_atuacao h3 {
+      width: 300px;
+    }
+    .bairros-zl {
+      width: 360px;
+      height: 750px;
+    }
+    .folder_ralo {
+      padding-right: 0px;
+    }
+    .folder_ralo h1 {
+      width: 300px;
+    }
+    .bairros-zl20 {
+      height: 580px;
+      padding-left: 20px;
+      width: 290px;
+    }
+    .folder_principal211 {
+      width: 305px;
+      padding-left: 20px;
+    }
+    .lista-zonas a {
+      font-size: 0.875rem;
+    }
+    .duvidab-jp h1 {
+      width: 358px;
+    }
+    .tipo2 {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
+    .bairros-zc {
+      padding-left: 25px;
+    }
+    .introducao-pag {
+      height: 640px;
+      padding-top: 100px;
+    }
+    p.p-erro {
+      font-size: 12px;
+    }
+    .call-erro {
+      width: 350px;
+    }
+    @media only screen and (max-width: 320px) {
+      .orca_intro {
+        display: none;
+      }
+      .duvida11 p {
+        font-size: 14px;
+      }
+      .duvida11 a {
+        margin-right: 20px;
+      }
+      .servicos_dese {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      .qualidade_home {
+        margin-left: 10px;
+      }
+      .quebra {
+        width: 320px;
+      }
+      .frase {
+        margin-left: 0px;
+        width: 310px;
+      }
+      .controle {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      .tipo_item {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      .footer {
+        padding-right: 280px;
+        padding-left: 10px;
+      }
+      .footer_historia {
+        padding-right: 0px;
+        width: 280px;
+      }
+      .footer h3 {
+        width: 280px;
+      }
+      .footer_contato ul {
+        width: 280px;
+      }
+      .footer_mapa {
+        width: 280px;
+      }
+      .copy {
+        width: 280px;
+      }
+      .item1 p {
+        padding-left: 0px;
+      }
+      .item2 p {
+        padding-left: 0px;
+      }
+      .blog1 h2 {
+        padding-left: 0px;
+      }
+      .blog1 p {
+        padding-right: 0px;
+        padding-left: 0px;
+        width: 300px;
+      }
+      .blog1 a {
+        padding-left: 0px;
+      }
+      .blog2 h2 {
+        padding-left: 0px;
+      }
+      .blog2 p {
+        padding-right: 0px;
+        padding-left: 0px;
+        width: 300px;
+      }
+      .blog2 a {
+        padding-left: 0px;
+      }
+      .blog3 h2 {
+        padding-left: 0px;
+      }
+      .blog3 p {
+        padding-right: 0px;
+        padding-left: 0px;
+        width: 300px;
+      }
+      .blog3 a {
+        padding-left: 0px;
+      }
+      .qualidade_dede {
+        margin-left: 10px;
+      }
+      .content-dede {
+        margin-left: 10px;
+        margin-right: 10px;
+      }
+      .caca {
+        width: 320px;
+        height: 965px;
+      }
+      .quebre1 p {
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      .bairros-zl {
+        width: 320px;
+      }
+      .bairros-zl20 {
+        padding-left: 20px;
+      }
+      .folder_principal211 {
+        padding-left: 0px;
+        width: 285px;
+        padding-right: 0px;
+      }
+      .duvidab-jp {
+        padding-right: 0px;
+      }
+      .duvidab-jp h1 {
+        width: 289px;
+        padding-top: 15px;
+        padding-left: 0px;
+        font-size: 1.0625rem;
+      }
+      #cookies {
+        height: 176px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-right: 10px;
+        padding-left: 10px;
+      }
+      p.pol {
+        width: 260px;
+        margin-bottom: 73px;
+      }
+      .clientes {
+        left: 0;
+        margin-right: 5px;
+        margin-left: 5px;
+      }
+      .tipo2 {
+        margin-left: 0;
+        margin-right: 0;
+        right: 10px;
+      }
+      .bairros-zc {
+        padding-left: 10px;
+      }
+      .introducao-pag {
+        height: 568px;
+        padding-top: 100px;
+      }
+      .introducao-pag h2 {
+        padding-right: 20px;
+        font-size: 20px;
+      }
+      .promo-pag p {
+        padding-right: 20px;
+        font-size: 16px;
+      }
+      .call-pag {
+        padding-right: 20px;
+      }
+      h3.tit-erro {
+        font-size: 22px;
+      }
+      p.p-erro {
+        font-size: 9px;
+      }
+      .call-erro {
+        width: 320px;
+      }
+    }
+  }
+}

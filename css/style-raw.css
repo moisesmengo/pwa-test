@@ -1,0 +1,1289 @@
+/* Estilos Gerais*/
+
+.d-flex {
+  display: flex;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 0.875rem;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.btn {
+  border: 2px solid rgb(211, 0, 0);
+  padding: 10px 30px;
+  color: rgb(211, 0, 0);
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  border-radius: 0;
+  box-shadow: 1px 1px 0 1px rgb(114, 0, 0);
+}
+
+.btn:hover {
+  box-shadow: 0 0 0 0 rgb(114, 0, 0), inset 1px 1px 1px rgb(114, 0, 0);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.btn.btn-preto:hover {
+  color: #000;
+  border-color: #000;
+}
+
+.subtitulo {
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.subtitulo:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+
+/*Cabeçalho*/
+
+nav {
+  width: 100%;
+  height: 70px;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 20px;
+}
+
+nav ul {
+  background-color: black;
+}
+
+nav ul li {
+  padding: 20px;
+  font-family: "Georgia", serif;
+  display: inline-block;
+  position: relative;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-weight: normal;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+
+.active a {
+  color: red;
+}
+
+#menu {
+  z-index: 100;
+}
+
+ul#menu {
+  font-size: 0.8rem;
+}
+
+nav ul li a:hover {
+  color: red;
+}
+
+nav ul li ul {
+  position: absolute;
+  opacity: 0;
+  visibility: hidden;
+  text-align: center;
+  width: 100%;
+  border-top: 1px red solid;
+  transition: 0.4s ease-in-out;
+}
+
+nav ul li ul {
+  left: 0;
+  top: 90%;
+}
+
+.drop-icon {
+  transform: rotate(-90deg);
+}
+
+nav ul li:hover > ul {
+  opacity: 1;
+  visibility: visible;
+}
+
+input {
+  display: none;
+}
+
+label {
+  width: 150px;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bolder;
+  font-size: 30px;
+  color: #ffff;
+  display: none;
+}
+
+label span {
+  font-family: "Georgia", serif;
+}
+
+@media (max-width: 991px) {
+  nav > ul {
+    position: absolute;
+    top: 70px;
+    left: -100%;
+    width: 100%;
+    transition: 0.8s linear;
+  }
+
+  nav ul li {
+    display: block;
+  }
+
+  label {
+    display: flex;
+    margin-right: 10px;
+  }
+
+  .drop-icon {
+    transform: rotate(0deg);
+  }
+
+  nav ul li ul {
+    width: max-content;
+    z-index: 1000;
+  }
+
+  input:checked ~ #menu {
+    left: 0;
+  }
+}
+
+/*Back to Top*/
+
+.gotopbtn {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: red;
+  bottom: 20px;
+  right: 20px;
+  text-decoration: none;
+  text-align: center;
+  line-height: 50px;
+  color: black;
+  font-size: 22px;
+  z-index: 10000;
+}
+
+/*Politica de Privacidade*/
+
+#cookies {
+  color: rgba(34, 34, 34, 0.959);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  top: 598px;
+  bottom: 0;
+  right: 0%;
+  left: 0%;
+  margin: 0 auto;
+  z-index: 11000;
+  box-shadow: 0 1px 3px rgba(206, 11, 11, 0.651);
+  padding: 5px 80px;
+  margin-bottom: 0;
+  background: #222;
+}
+
+.pol {
+  height: 35px;
+  color: rgba(255, 255, 255, 0.849);
+  margin-bottom: 10px;
+}
+
+.pol a {
+  color: red;
+}
+
+#cookies button {
+  background: rgb(255, 19, 19);
+  padding: 13px 35px;
+  text-align: center;
+  border-radius: 5px;
+  outline: none;
+  color: rgba(255, 255, 255, 0.904);
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+#cookies button:hover {
+  opacity: 0.8;
+}
+.hidden {
+  display: none !important;
+  visibility: hidden;
+  opacity: 0;
+}
+@media (max-width: 900px) {
+  #cookies {
+    width: 80%;
+  }
+}
+
+/*Introdução*/
+
+.introducao {
+  width: 100%;
+  height: 500px;
+  background: url("../img/intro1.jpg") no-repeat center;
+  background-size: cover;
+  margin-top: 0px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.introducao h1 {
+  font-size: 40px;
+  color: black;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.promo p {
+  font-style: normal;
+  font-size: 30px;
+  color: red;
+  font-weight: normal;
+  text-transform: uppercase;
+  padding-top: 30px;
+  letter-spacing: 5px;
+}
+
+.lista_intro {
+  font-style: oblique;
+  font-size: 18px;
+  color: white;
+  font-weight: normal;
+  text-transform: uppercase;
+  padding-top: 30px;
+  letter-spacing: 2px;
+}
+
+.introducao h4 {
+  font-size: 18px;
+  color: rgb(128, 27, 27);
+  font-weight: bold;
+  text-transform: none;
+  padding-top: 30px;
+  letter-spacing: 2px;
+}
+
+.contato a {
+  display: inline-block;
+  width: 90px;
+  height: 60px;
+  margin: 20px;
+  background-size: 100% 100%; /* ou 'contain' */
+  background-image: url("../img/whatsapp2.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*INTRODUÇÃO FOLDER*/
+
+.introducao_folder2 {
+  width: 100%;
+  margin-top: 50px;
+  height: 170px;
+  text-align: left;
+  color: black;
+  padding-top: 60px;
+}
+
+.introducao_folder2 h1 {
+  font-size: 20px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.introducao_folder2 p {
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-style: italic;
+  text-transform: none;
+  padding-top: 20px;
+}
+
+/*COMENTÁRIOS*/
+
+.quote_clientes {
+  padding: 60px 0;
+  max-width: 460px;
+  margin: 0 auto;
+}
+
+.quote_clientes p {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  line-height: 25px;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
+.quote_clientes cite {
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  float: right;
+  font-style: normal;
+}
+
+/*DUVIDA*/
+
+.duvida11 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: black;
+  padding-left: 430px;
+}
+
+.container-d {
+  width: auto;
+}
+
+.duvida11 p {
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
+
+.duvida11 a {
+  display: block;
+  margin-right: auto;
+  width: 60px;
+  height: 60px;
+  background-size: 100% 100%; /* ou 'contain' */
+  background-image: url("../img/whatsapp3.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*SERVIÇOS*/
+
+.servicos_dese {
+  height: 550px;
+  padding-top: 30px;
+}
+
+.servicos_dese h2 {
+  padding: 5px;
+}
+
+.servicos_lista li {
+  border-radius: 3px;
+  text-align: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.subtitulo4 {
+  font-size: 24px;
+  line-height: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.subtitulo4:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+
+.img_servicos {
+  margin: auto;
+  display: block;
+}
+
+.servicos_lista li a {
+  font-family: georgia;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000;
+  line-height: 25px;
+  text-transform: none;
+  letter-spacing: 0.1em;
+  margin-top: 10px;
+}
+
+.servicos_lista li a:hover {
+  color: rgb(211, 0, 0);
+}
+
+.servicos_lista li p {
+  font-size: 16px;
+  padding: 10px 20px 20px 20px;
+}
+
+.servicos_icone {
+  padding: 10px;
+}
+
+.call {
+  padding-top: 40px;
+  text-align: center;
+  clear: both;
+}
+
+.call p {
+  margin-bottom: 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+/*DUVIDA DEDETIZACAO*/
+
+.duvida-dede {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #b7b7b8;
+  padding-left: 340px;
+}
+
+.duvida-dede p {
+  display: block;
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: rgb(19, 0, 87);
+  padding: 30px;
+  margin: 10px;
+}
+
+.duvida-dede a {
+  display: block;
+  margin-right: auto;
+  width: 60px;
+  height: 60px;
+  background-size: 100% 100%; /* ou 'contain' */
+  background-image: url("../img/whatsapp3.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*QUALIDADE*/
+
+.qualidade_home {
+  padding: 60px 0;
+  height: 680px;
+}
+
+.subtitulo_cli {
+  font-size: 24px;
+  line-height: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.subtitulo_cli:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+
+.qualidade_home:after {
+  content: "";
+  width: 634px;
+  height: 83px;
+  display: block;
+  background: url("../img/linhas.svg") no-repeat center;
+  position: absolute;
+  top: 150px;
+  right: 167px;
+  z-index: -1;
+}
+
+.qualidade_home img {
+  margin: 0 auto;
+}
+
+.qualidade_lista {
+  padding-top: 10px;
+}
+
+.qualidade_lista li {
+  text-align: center;
+  padding: 0 40px;
+}
+
+.qualidade h3 {
+  font-weight: lighter;
+  font-size: 16px;
+  text-transform: uppercase;
+  color: rgb(121, 0, 0);
+}
+
+.qualidade_lista li h4 {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 25px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 90px;
+}
+
+.qualidade_lista li h4:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 10px auto;
+}
+
+.btn-preto {
+  border: 3px solid rgb(211, 0, 0);
+  padding: 10px 40px;
+  color: rgb(211, 0, 0);
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.btn-preto:hover {
+  color: black;
+  border-color: black;
+}
+
+/*CLIENTE*/
+
+.cli {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  margin: 5px auto;
+}
+
+.clientes-item {
+  flex: 1 1 120px;
+  margin: 5px 10px;
+}
+
+/*QUEBRA*/
+
+.quebra {
+  width: 100%;
+  height: 220px;
+  background: url("../img/footer.jpg") no-repeat center;
+  background-size: cover;
+  text-align: center;
+  padding-top: 85px;
+}
+
+.quebra p {
+  font-style: italic;
+  font-weight: bold;
+  font-size: 16px;
+  letter-spacing: 0.2em;
+  color: rgb(0, 0, 0);
+}
+
+/*CONTROLE*/
+
+.controle {
+  height: 560px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.subtitulo5 {
+  font-size: 10px;
+  line-height: 20px;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: 5px;
+  color: rgb(70, 2, 2);
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+
+.subtitulo4 {
+  font-size: 24px;
+  font-weight: normal;
+  text-align: center;
+  letter-spacing: 2px;
+  color: rgb(128, 27, 27);
+  padding-top: 30px;
+  margin-bottom: 50px;
+}
+
+.controle_lista li {
+  align-items: center;
+  background-color: black;
+  background-image: linear-gradient(black, grey, black);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  border-radius: 1em;
+}
+
+.imagem_controle {
+  margin: 20px auto;
+  display: block;
+}
+
+.controle_lista a {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 25px;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-top: 20px;
+}
+
+.controle_lista a:hover {
+  color: rgb(211, 0, 0);
+}
+
+.controle_lista p {
+  font-size: 0.875rem;
+  line-height: 25px;
+  color: white;
+  text-transform: none;
+  letter-spacing: 0.1em;
+  margin: 40px;
+}
+
+/*DUVIDA CONTROLE*/
+
+.duvida-controle {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #b7b7b8;
+  padding-left: 330px;
+}
+
+.duvida-controle p {
+  display: block;
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: rgb(19, 0, 87);
+  padding: 30px;
+  margin: 10px;
+}
+
+.duvida-controle a {
+  display: block;
+  margin-right: auto;
+  width: 60px;
+  height: 60px;
+  background-size: 100% 100%; /* ou 'contain' */
+  background-image: url("../img/whatsapp3.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/*TIPOS*/
+
+.tipo_item {
+  padding-top: 50px;
+  height: 680px;
+}
+
+.tipo_item h2 {
+  color: #fff;
+  font-size: 18px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  position: relative;
+  top: -180px;
+  text-align: center;
+  margin-bottom: -40px;
+}
+
+.tipo_item h2:after,
+.tipo_item h2:before {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: #fff;
+  margin: 6px auto 8px auto;
+}
+
+.tipo_icone {
+  background: #000;
+  padding: 70px 0;
+}
+
+.tipo_icone img {
+  margin: 0 auto;
+}
+
+.tipo_info {
+  background: #000;
+}
+
+.tipo_info p {
+  color: #fff;
+  font-size: 18px;
+  line-height: 25px;
+  height: 180px;
+  padding: 30px 40px;
+}
+
+.tipo_info p a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.tipo_info p a:hover {
+  color: red;
+}
+
+.tipo_info ul li {
+  background: #d30000;
+  text-transform: uppercase;
+  font-size: 18px;
+  line-height: 20px;
+  font-weight: bold;
+  float: left;
+  width: 229px;
+  height: 49px;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.tipo_info ul li:nth-child(1),
+.tipo_info ul li:nth-child(2) {
+  margin-bottom: 2px;
+}
+
+.tipo_info ul li:nth-child(even) {
+  margin-left: 2px;
+}
+
+/*DUVIDA CAÇA*/
+
+.duvida-caca {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 120px;
+  background: #b7b7b8;
+  padding-left: 340px;
+}
+
+.duvida-caca p {
+  display: block;
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  text-align: center;
+  color: rgb(19, 0, 87);
+  padding: 30px;
+  margin: 10px;
+}
+
+.duvida-caca a {
+  display: block;
+  margin-right: auto;
+  width: 50px;
+  height: 80px;
+  background-size: 100% 100%; /* ou 'contain' */
+  background-image: url("../img/whatsapp3.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* Locais de Atendimento*/
+
+.locais {
+  height: 1360px;
+  padding: 60px 0;
+}
+
+.p {
+  padding-bottom: 40px;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+.sub6 {
+  padding-right: -0px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.sub6:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+
+.local_item {
+  padding: 20px 0px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.local_item h2 {
+  padding-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(148, 0, 0);
+}
+
+.local_item li {
+  padding: 2px;
+  letter-spacing: 1px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  line-height: 30px;
+  font-size: 18px;
+  font-style: italic;
+}
+
+.local_item a {
+  font-size: 14px;
+  color: #000;
+}
+
+.local_item a:hover {
+  color: rgb(211, 0, 0);
+}
+
+.local_lista {
+  font-size: 14px;
+}
+
+.call-l {
+  padding-top: 40px;
+  text-align: center;
+  clear: both;
+}
+
+.call-l p {
+  margin-bottom: 30px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+/*BLOG*/
+
+.blog {
+  padding: 20px 150px;
+  width: 100%;
+  height: 250px;
+  background: url("../img/folder5.jpg") no-repeat center;
+  background-size: cover;
+  text-align: left;
+  padding-top: 70px;
+}
+
+.item {
+  margin-right: 40px;
+}
+
+.item1 {
+  padding: 10px 0px;
+  font-size: 0.8rem;
+  font-weight: normal;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-style: italic;
+  font-weight: bold;
+  color: black;
+}
+
+.item2 {
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 1px;
+  font-style: italic;
+  color: black;
+}
+
+.blog1 {
+  margin-right: 40px;
+}
+
+.blog1 h2 {
+  padding: 10px 20px;
+  font-size: 0.8rem;
+  font-style: initial;
+}
+
+.blog1 p {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.blog1 a {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-style: normal;
+  letter-spacing: 1px;
+  color: rgb(211, 0, 0);
+}
+
+.blog1 a:hover {
+  color: black;
+  border-color: black;
+}
+
+.blog2 {
+  margin-right: 40px;
+}
+
+.blog2 h2 {
+  padding: 10px 20px;
+  font-size: 0.8rem;
+  font-style: initial;
+}
+
+.blog2 p {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.blog2 a {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-style: normal;
+  letter-spacing: 1px;
+  color: rgb(211, 0, 0);
+}
+
+.blog2 a:hover {
+  color: black;
+  border-color: black;
+}
+
+.blog3 h2 {
+  padding: 10px 20px;
+  font-size: 0.8rem;
+  font-style: initial;
+}
+
+.blog3 p {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+.blog3 a {
+  padding: 10px 20px;
+  font-size: 18px;
+  font-style: normal;
+  letter-spacing: 1px;
+  color: rgb(211, 0, 0);
+}
+
+.blog3 a:hover {
+  color: black;
+  border-color: black;
+}
+
+/*Perguntas e Respostas*/
+
+.perguntas {
+  max-width: 100%;
+  height: auto;
+  text-align: center;
+  background: whitesmoke;
+  padding: 30px;
+}
+
+.per-res h3 {
+  padding-bottom: 30px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+.per-res p {
+  padding-bottom: 40px;
+  font-size: 40px;
+  color: red;
+}
+
+.accordion {
+  background: whitesmoke;
+  color: rgb(107, 107, 107);
+  font-size: 24px;
+  font-style: italic;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: center;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active,
+.accordion:hover {
+  color: rgb(83, 1, 1);
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: whitesmoke;
+  display: none;
+  overflow: hidden;
+}
+
+.panel p {
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+
+/* MAPA DO SITE*/
+
+.mapa {
+  padding: 60px 0;
+}
+
+.subtitulo61 {
+  padding-right: 100px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #000;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.subtitulo61:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: #000;
+  margin: 8px auto;
+}
+
+.mapa_item {
+  padding: 20px 0px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  line-height: 20px;
+}
+
+.mapa_item li {
+  padding: 2px;
+  letter-spacing: 1px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.mapa_item a {
+  color: #000;
+}
+
+.mapa_item a:hover {
+  color: rgb(211, 0, 0);
+}
+
+/*FOOTER*/
+
+.footer {
+  width: 100%;
+  background: #000;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.footer h3 {
+  font-size: 16px;
+  line-height: 25px;
+  color: rgb(211, 0, 0);
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+}
+
+.footer h3:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: rgb(211, 0, 0);
+  margin: 6px 0 12px 0;
+}
+
+.footer_historia {
+  padding-right: 40px;
+}
+
+.footer_redes ul li {
+  padding: 30px 0;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer_redes ul li a {
+  border: 2px solid rgb(211, 0, 0);
+  display: block;
+  padding: 5px;
+}
+
+.footer_redes ul li a:hover {
+  border-color: #fff;
+}
+
+.footer_contato ul li {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.footer_mapa ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.footer_mapa ul li a {
+  padding: 5px;
+}
+
+/*JAVASCRIPT*/
+
+.js [data-slide] {
+  position: relative;
+}
+
+.js [data-slide] > * {
+  position: absolute;
+  top: 0px;
+  opacity: 0;
+}
+.js [data-slide] > .active {
+  position: relative;
+  opacity: 1;
+  transition: opacity 500ms;
+}
+
+.js [data-slide-nav] {
+  display: inline-block;
+  width: 12px;
+  margin: 4px;
+  height: 12px;
+  border: none;
+  padding: 0px;
+  border-radius: 6px;
+  background: white;
+  text-indent: -100px;
+  overflow: hidden;
+}
+
+.js [data-anime] {
+  opacity: 0;
+  transform: translate3d(0, -20px, 0);
+}
+
+.js .fadeInDown {
+  transform: translate3d(0, -20px, 0);
+}
+
+.js .anime {
+  opacity: 1;
+  transform: none;
+  transition: transform 0.8s, opacity 0.8s;
+}
