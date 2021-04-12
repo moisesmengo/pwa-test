@@ -1,21 +1,13 @@
-
-self.addEventListener('install', (e) => {
-  e.waitUntil(
-    caches.open('fox-store').then((cache) => cache.addAll([
-      '/',
-      '/css/style.css',
-      '/css/',
-      '/img',
-      '/js/index.js',
-      '/js/',
-      '/main.js'
-    ])),
-  );
-});
-
-self.addEventListener('fetch', (e) => {
-  console.log(e.request.url);
-  e.respondWith(
-    caches.match(e.request).then((response) => response || fetch(e.request)),
-  );
+importScripts("https://cdn.ampproject.org/sw/amp-sw.js");
+AMP_SW.init({
+  assetCachingOptions: [
+    {
+      regexp: /\.(png|jpg|svg|webp)/,
+      cachingStrategy: "CACHE_FIRST",
+    },
+    {
+      regexp: /\.(js)/,
+      cachingStrategy: "STALE_WHILE_REVALIDATE",
+    },
+  ],
 });
