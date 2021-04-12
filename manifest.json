@@ -1,23 +1,9 @@
+ 
 {
-  "name": "Desentupidora Desentopex",
-  "short_name": "Desentopex",
-  "description": "DESENTUPIDORA EM SÃO PAULO",
-
-  "start_url": ".",
-  "background_color": "#f5f5f5",
-  "theme_color": "#000",
-  "scope": "/",
-  "orientation": "portrait-primary",
-  "display": "fullscreen",
-  "prefer_related_applications": true,
-  "related_applications": [
-  {
-    "platform": "play",
-    "id": "com.google.samples.apps.iosched"
-  }
-],
-  "icons": [
-    {
+    "short_name": "Desentopex",
+    "name": "Desentupidora Desentopex",
+    "icons":[
+        {
       "src": "android-chrome-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
@@ -29,7 +15,12 @@
       "sizes": "512x512",
       "purpose": "any maskable"
     }
-  ]
+    ],
+    "start_url": "/index.html",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000",
+    "orientation": "portrait",
+    "prefer_related_applications": true
 }
-
-  
